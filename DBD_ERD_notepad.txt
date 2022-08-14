@@ -39,3 +39,5 @@ emp_no int pk fk -< Employees.emp_no fk -< Salaries.emp_no
 title varchar
 from_date date
 to_date date
+
+
