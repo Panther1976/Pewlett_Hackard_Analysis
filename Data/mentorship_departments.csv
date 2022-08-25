@@ -1,0 +1,1550 @@
+emp_no,dept_name,first_name,last_name,birth_date,from_date,to_date,title
+10095,Sales,Hilari,Morton,1965-01-03,1994-03-10,9999-01-01,Staff
+10122,Development,Ohad,Esposito,1965-01-19,1998-08-06,9999-01-01,Technique Leader
+10291,Sales,Dipayan,Seghrouchni,1965-01-23,1987-03-30,9999-01-01,Senior Staff
+10476,Research,Kokou,Iisaka,1965-01-01,1987-09-20,9999-01-01,Staff
+10663,Production,Teunis,Noriega,1965-01-09,1999-02-12,9999-01-01,Technique Leader
+10762,Research,Lech,Himler,1965-01-19,1992-01-21,9999-01-01,Staff
+10933,Production,Juyoung,Seghrouchni,1965-01-24,1993-08-02,9999-01-01,Senior Engineer
+12155,Production,Keiichiro,Glinert,1965-01-21,1993-09-16,9999-01-01,Senior Engineer
+12408,Development,Rasiah,Sudkamp,1965-01-10,1995-04-18,9999-01-01,Senior Engineer
+12643,Finance,Morrie,Schurmann,1965-01-30,1998-12-31,9999-01-01,Staff
+13499,Production,Kazuhiko,Sidou,1965-01-16,1991-09-01,9999-01-01,Technique Leader
+14075,Development,Denny,Tchuente,1965-01-03,1991-05-30,9999-01-01,Engineer
+14104,Human Resources,Sudhanshu,Demian,1965-01-03,1994-07-23,9999-01-01,Senior Staff
+14127,Production,Magdalena,Cannard,1965-01-10,1994-04-22,9999-01-01,Engineer
+14158,Sales,Caolyn,Setiz,1965-01-22,1990-02-06,9999-01-01,Staff
+14476,Production,Sastry,Marrevee,1965-01-19,1999-09-25,9999-01-01,Engineer
+14907,Sales,Nakhoon,Luga,1965-01-14,1986-12-18,9999-01-01,Senior Staff
+15050,Production,Nikolaos,Kruskal,1965-01-18,1990-12-17,9999-01-01,Engineer
+15058,Finance,Bouchung,Bugrara,1965-01-30,1990-06-18,9999-01-01,Staff
+15413,Development,Arvin,Rabejac,1965-01-17,1994-01-01,9999-01-01,Senior Engineer
+16461,Sales,Remmert,Schahn,1965-01-14,1986-09-06,9999-01-01,Staff
+16528,Production,Gaurav,Swick,1965-01-21,1996-05-07,9999-01-01,Assistant Engineer
+17013,Finance,Morris,Garigliano,1965-01-15,1995-05-24,9999-01-01,Senior Staff
+17206,Production,Berry,DeMori,1965-01-02,1992-12-27,9999-01-01,Engineer
+17369,Production,Yaghout,Kenevan,1965-01-31,2000-09-15,9999-01-01,Senior Engineer
+17447,Sales,Zengping,Boreale,1965-01-11,1998-12-16,9999-01-01,Staff
+17731,Development,Gennady,Roison,1965-01-16,1989-12-06,9999-01-01,Assistant Engineer
+17970,Production,Filipp,Carrere,1965-01-06,1989-01-09,9999-01-01,Technique Leader
+17988,Production,Mabhin,Calkin,1965-01-31,1989-11-30,9999-01-01,Senior Engineer
+18021,Development,Adil,Matzke,1965-01-07,1987-05-08,9999-01-01,Engineer
+18424,Development,Filipp,Rousseau,1965-01-19,1995-06-07,9999-01-01,Senior Engineer
+18583,Customer Service,Stafford,Honglei,1965-01-03,1998-08-16,9999-01-01,Staff
+18617,Human Resources,Surveyors,Crouzet,1965-01-21,1989-04-24,9999-01-01,Senior Staff
+18810,Development,Taiji,Jarecki,1965-01-09,1991-06-27,9999-01-01,Senior Engineer
+19236,Production,Elzbieta,Morris,1965-01-24,1988-07-12,9999-01-01,Engineer
+19350,Customer Service,Satoru,Yoshizawa,1965-01-19,1994-03-27,9999-01-01,Staff
+19803,Development,Ziva,Kowalchuk,1965-01-30,1987-06-13,9999-01-01,Senior Engineer
+20100,Marketing,Utz,Heuter,1965-01-18,1986-06-15,9999-01-01,Senior Staff
+20128,Customer Service,Kazunori,Peak,1965-01-23,1999-08-13,9999-01-01,Senior Staff
+20129,Production,Rafael,Skafidas,1965-01-10,1991-03-28,9999-01-01,Senior Engineer
+20248,Customer Service,Vidar,Demri,1965-01-12,1999-12-31,9999-01-01,Staff
+20313,Production,Candida,Benveniste,1965-01-24,1999-01-20,9999-01-01,Engineer
+20500,Customer Service,Christoph,Trystram,1965-01-30,1993-10-15,9999-01-01,Staff
+20885,Production,Otmar,Rothenberg,1965-01-21,1989-03-14,9999-01-01,Engineer
+21181,Production,Jianhui,Cangellaris,1965-01-21,1991-10-06,9999-01-01,Engineer
+21188,Development,Piyush,Danecki,1965-01-21,2000-01-08,9999-01-01,Engineer
+21546,Marketing,Yongmin,Lanteri,1965-01-01,2002-03-19,9999-01-01,Senior Staff
+21843,Development,Karsten,Azadmanesh,1965-01-09,1985-11-29,9999-01-01,Senior Engineer
+21909,Sales,Mohammed,Brizzi,1965-01-04,1991-12-28,9999-01-01,Senior Staff
+22185,Production,Huai,Birch,1965-01-29,2002-06-12,9999-01-01,Engineer
+22415,Sales,Perla,Jumpertz,1965-01-20,1994-08-24,9999-01-01,Senior Staff
+22451,Development,Jasminko,Bresenham,1965-01-27,1994-01-19,9999-01-01,Staff
+22455,Marketing,Barry,Unno,1965-01-06,1990-11-16,9999-01-01,Senior Staff
+22926,Production,Manibrata,Genther,1965-01-01,1988-01-15,9999-01-01,Engineer
+23396,Production,Hilari,Fairtlough,1965-01-02,1986-12-15,9999-01-01,Technique Leader
+24080,Development,Jaana,Perez,1965-01-26,1996-03-11,9999-01-01,Technique Leader
+24205,Development,Roddy,Rubsam,1965-01-25,1993-09-19,9999-01-01,Senior Engineer
+24377,Quality Management,Lubomir,Wroclawski,1965-01-25,1993-07-25,9999-01-01,Engineer
+24394,Sales,Zhonghui,Conta,1965-01-04,1994-09-10,9999-01-01,Staff
+24553,Sales,Anwar,Passafiume,1965-01-12,1987-01-30,9999-01-01,Staff
+24571,Production,Cordelia,Gischer,1965-01-20,1989-03-14,9999-01-01,Senior Engineer
+25488,Research,Ingmar,Basawa,1965-01-19,1991-11-09,9999-01-01,Staff
+26629,Research,Nevin,Rodham,1965-01-28,1998-12-14,9999-01-01,Senior Staff
+26671,Development,Jiakeng,Kalorkoti,1965-01-21,1994-12-25,9999-01-01,Engineer
+26788,Development,Zongyan,Dalphin,1965-01-25,1988-04-23,9999-01-01,Senior Engineer
+27331,Customer Service,Wanqing,Krohm,1965-01-19,1991-01-22,9999-01-01,Staff
+27378,Finance,Piyawadee,Leppanen,1965-01-28,1999-02-25,9999-01-01,Senior Staff
+27620,Production,Shuji,Kandlur,1965-01-25,1990-03-02,9999-01-01,Senior Engineer
+27686,Sales,Manu,Rosiles,1965-01-28,1998-03-03,9999-01-01,Senior Staff
+27699,Production,Falguni,Pezzoli,1965-01-15,1996-12-23,9999-01-01,Engineer
+27767,Customer Service,Tooru,Veldwijk,1965-01-27,1993-11-21,9999-01-01,Staff
+28193,Development,Xinglin,Mitsuhashi,1965-01-29,1988-12-14,9999-01-01,Senior Engineer
+28974,Development,Chenxi,Sundgren,1965-01-09,1986-09-02,9999-01-01,Senior Engineer
+28988,Production,Tua,Giveon,1965-01-18,1998-09-09,9999-01-01,Technique Leader
+29130,Marketing,Xumin,Thorensen,1965-01-06,1998-04-26,9999-01-01,Staff
+29265,Customer Service,Gilbert,Calkin,1965-01-14,1988-03-21,9999-01-01,Staff
+29380,Production,Satoru,Vidal,1965-01-30,1998-05-02,9999-01-01,Assistant Engineer
+29418,Production,Valery,Mersereau,1965-01-22,1998-07-01,9999-01-01,Assistant Engineer
+29679,Development,Kolar,Steenbeek,1965-01-17,1986-10-18,9999-01-01,Senior Engineer
+29782,Production,Jouko,Hellwagner,1965-01-29,2000-10-23,9999-01-01,Senior Engineer
+29954,Production,Pranay,Giarratana,1965-01-27,1992-09-29,9999-01-01,Senior Engineer
+30007,Production,Kousuke,Vecchio,1965-01-24,1990-02-23,9999-01-01,Senior Engineer
+30035,Research,Tetsushi,Conta,1965-01-08,1995-07-04,9999-01-01,Senior Staff
+30154,Development,Mayuko,Skafidas,1965-01-26,1999-04-19,9999-01-01,Technique Leader
+30182,Development,Leon,Potthoff,1965-01-26,1985-12-08,9999-01-01,Senior Engineer
+30465,Development,Randi,Avouris,1965-01-28,1986-07-16,9999-01-01,Engineer
+30484,Sales,Sailaja,Chvatal,1965-01-11,1999-05-18,9999-01-01,Staff
+30695,Development,Gudjon,Majewski,1965-01-08,1999-10-26,9999-01-01,Senior Engineer
+30938,Marketing,Yakkov,Samarati,1965-01-06,1997-10-10,9999-01-01,Staff
+31147,Finance,Divine,Sidhu,1965-01-04,1989-07-05,9999-01-01,Senior Staff
+31188,Production,Leandro,Gist,1965-01-12,1993-02-03,9999-01-01,Technique Leader
+31207,Production,Abdelwaheb,Dulin,1965-01-30,1993-08-05,9999-01-01,Senior Engineer
+31341,Finance,Oksana,Zultner,1965-01-01,1991-03-23,9999-01-01,Senior Staff
+31514,Development,Harngdar,Schapire,1965-01-13,1996-11-09,9999-01-01,Senior Engineer
+31568,Marketing,Mark,Lalonde,1965-01-10,1996-11-24,9999-01-01,Staff
+31909,Production,Murthy,Peek,1965-01-10,2000-10-30,9999-01-01,Engineer
+32347,Marketing,Terresa,Peres,1965-01-08,1990-09-15,9999-01-01,Staff
+32552,Development,Atreye,Stanger,1965-01-17,1993-09-10,9999-01-01,Engineer
+32649,Research,Ingmar,Nannarelli,1965-01-12,1988-06-10,9999-01-01,Senior Staff
+32714,Marketing,Radoslaw,Maliniak,1965-01-16,2001-09-18,9999-01-01,Staff
+32844,Development,Tadahiko,Melton,1965-01-23,1995-01-07,9999-01-01,Engineer
+33025,Customer Service,Jessie,Thorelli,1965-01-12,1999-12-16,9999-01-01,Senior Staff
+33215,Production,Steen,Fasbender,1965-01-29,1993-02-14,9999-01-01,Technique Leader
+33722,Research,Anwar,Collette,1965-01-15,2001-02-03,9999-01-01,Senior Engineer
+34077,Sales,Angel,Sichman,1965-01-08,1988-11-16,9999-01-01,Staff
+34261,Human Resources,Kyoichi,Callaway,1965-01-05,1990-12-30,9999-01-01,Staff
+34446,Development,Chinhyun,Bauknecht,1965-01-31,1986-12-19,9999-01-01,Senior Engineer
+34452,Production,Naftaly,Foong,1965-01-08,1991-05-10,9999-01-01,Senior Engineer
+34505,Sales,Felicidad,Kumaresan,1965-01-28,1994-09-06,9999-01-01,Staff
+34533,Quality Management,Erzsebet,Shigei,1965-01-10,1995-01-16,9999-01-01,Senior Engineer
+34780,Sales,Moni,Kohling,1965-01-16,2001-09-18,9999-01-01,Staff
+34788,Production,Ennio,Babu,1965-01-27,1994-08-31,9999-01-01,Senior Engineer
+34936,Production,Bokyung,Stamatiou,1965-01-12,1991-02-12,9999-01-01,Technique Leader
+35044,Production,Jiang,Waschkowski,1965-01-04,1989-05-27,9999-01-01,Senior Engineer
+35087,Customer Service,Leif,Ashish,1965-01-17,1994-10-14,9999-01-01,Staff
+35441,Research,Chandrasekaran,Peek,1965-01-31,1990-09-17,9999-01-01,Senior Engineer
+35642,Quality Management,Ashish,Talmon,1965-01-30,1999-02-28,9999-01-01,Senior Engineer
+35793,Customer Service,Oscar,Kusalik,1965-01-01,1991-05-11,9999-01-01,Senior Staff
+35798,Development,Ulf,Oberman,1965-01-29,1997-03-15,9999-01-01,Senior Engineer
+36521,Finance,Serif,Gladwell,1965-01-21,1987-03-06,9999-01-01,Senior Staff
+36626,Sales,Fen,Genin,1965-01-02,1986-05-09,9999-01-01,Senior Staff
+36733,Customer Service,Uma,Reinhard,1965-01-04,1997-11-01,9999-01-01,Staff
+36844,Customer Service,Hailing,Levergood,1965-01-01,2000-01-12,9999-01-01,Staff
+36982,Quality Management,Kotesh,Rajala,1965-01-22,1992-06-23,9999-01-01,Senior Engineer
+37070,Customer Service,Jeong,Undy,1965-01-22,1985-02-13,9999-01-01,Staff
+37945,Development,Suzette,Butterworth,1965-01-02,1994-02-19,9999-01-01,Senior Engineer
+38043,Development,Michaela,Randi,1965-01-05,1985-11-23,9999-01-01,Senior Engineer
+38103,Production,Masasuke,Babu,1965-01-12,1988-03-31,9999-01-01,Senior Engineer
+38168,Sales,Fumiko,Deverell,1965-01-14,1987-08-15,9999-01-01,Staff
+38550,Quality Management,JoAnne,Baez,1965-01-14,1987-02-16,9999-01-01,Senior Engineer
+38593,Production,Huei,Orsini,1965-01-14,1986-06-04,9999-01-01,Senior Engineer
+38947,Marketing,Shuichi,Ruemmler,1965-01-25,1998-04-08,9999-01-01,Senior Staff
+39000,Research,Martijn,Vendrig,1965-01-08,1997-03-03,9999-01-01,Senior Staff
+39036,Human Resources,Changho,Cappelli,1965-01-08,1996-05-04,9999-01-01,Staff
+39301,Research,Rimon,Kawashima,1965-01-07,1992-02-06,9999-01-01,Staff
+39341,Production,Mahmut,Lampe,1965-01-01,1985-05-11,9999-01-01,Senior Engineer
+39952,Sales,Otmar,Sudbeck,1965-01-02,1998-07-22,9999-01-01,Staff
+40269,Sales,Toshiki,Ghazalie,1965-01-10,1991-12-05,9999-01-01,Staff
+40283,Development,Sudhanshu,Boissier,1965-01-07,1985-05-11,9999-01-01,Engineer
+40301,Customer Service,Spyrose,Felder,1965-01-20,1997-10-20,9999-01-01,Senior Engineer
+40536,Development,Harngdar,Bernardinello,1965-01-20,1988-02-29,9999-01-01,Senior Engineer
+40765,Research,Michaela,Ramsak,1965-01-01,1992-12-21,9999-01-01,Senior Staff
+40773,Customer Service,Shimshon,Aingworth,1965-01-09,1986-04-13,9999-01-01,Senior Staff
+40983,Development,Marla,Cherinka,1965-01-17,1986-12-01,9999-01-01,Technique Leader
+41114,Production,Petter,Thummel,1965-01-25,1995-12-24,9999-01-01,Technique Leader
+41137,Customer Service,Bikash,Buchter,1965-01-20,1996-01-08,9999-01-01,Staff
+41357,Development,Willard,Vernadat,1965-01-06,1997-03-04,9999-01-01,Engineer
+41518,Production,Keung,Schapiro,1965-01-11,2001-02-08,9999-01-01,Senior Engineer
+41520,Development,Xiong,Uhrik,1965-01-20,1988-03-21,9999-01-01,Senior Engineer
+41609,Sales,Yucai,Simmen,1965-01-04,1987-10-13,9999-01-01,Senior Staff
+42778,Human Resources,Shuji,Remmers,1965-01-19,1987-12-18,9999-01-01,Staff
+42911,Production,Brigham,Eterovic,1965-01-29,1994-10-08,9999-01-01,Engineer
+42950,Research,Shaleah,Eickenmeyer,1965-01-22,1993-10-09,9999-01-01,Senior Staff
+42955,Quality Management,Yucel,Lortz,1965-01-12,1995-02-21,9999-01-01,Engineer
+43154,Finance,Maha,Waterhouse,1965-01-13,1997-07-04,9999-01-01,Staff
+43733,Human Resources,Huei,Boguraev,1965-01-26,1993-12-31,9999-01-01,Senior Staff
+43848,Production,Phillip,Oxenboll,1965-01-11,1999-05-26,9999-01-01,Engineer
+44054,Development,Alenka,Ritcey,1965-01-18,1997-02-09,9999-01-01,Engineer
+44265,Development,Maria,Eppinger,1965-01-24,1997-01-30,9999-01-01,Engineer
+44540,Development,Mingzeng,Sadowski,1965-01-16,1989-11-12,9999-01-01,Senior Engineer
+44900,Marketing,Mark,Schwaller,1965-01-05,1994-08-10,9999-01-01,Senior Staff
+44959,Production,Volkmar,Uhrik,1965-01-21,1988-01-16,9999-01-01,Senior Engineer
+44962,Development,Sariel,Wynblatt,1965-01-16,1996-05-18,9999-01-01,Assistant Engineer
+45162,Development,Dulce,Speel,1965-01-11,1987-10-19,9999-01-01,Engineer
+46000,Customer Service,Zhaofang,Penn,1965-01-26,1997-07-24,9999-01-01,Staff
+46328,Sales,Wuxu,Trogemann,1965-01-05,1997-01-27,9999-01-01,Senior Staff
+46811,Production,Junsik,Berendt,1965-01-10,1988-04-27,9999-01-01,Senior Engineer
+46834,Sales,Tooru,Daescu,1965-01-22,1998-03-20,9999-01-01,Senior Staff
+46943,Development,Pasqua,Maraist,1965-01-31,1993-12-06,9999-01-01,Engineer
+47016,Customer Service,Toong,Litecky,1965-01-03,1989-03-01,9999-01-01,Staff
+47139,Development,Marco,Usdin,1965-01-25,1996-10-29,9999-01-01,Engineer
+47262,Development,Gonzalo,Binkley,1965-01-10,1985-08-16,9999-01-01,Senior Engineer
+47515,Development,Naraig,Jenevein,1965-01-26,1987-01-18,9999-01-01,Senior Engineer
+47702,Sales,Juyoung,Vieri,1965-01-21,1991-08-12,9999-01-01,Staff
+47708,Marketing,Edwin,Haldar,1965-01-05,1995-07-12,9999-01-01,Senior Staff
+48275,Sales,Sariel,Massonet,1965-01-29,1987-11-20,9999-01-01,Staff
+48690,Human Resources,Hitomi,Schaap,1965-01-12,1999-09-27,9999-01-01,Staff
+48882,Production,Leen,Lamparter,1965-01-28,1993-06-07,9999-01-01,Senior Engineer
+48904,Finance,Yuichiro,Malabarba,1965-01-23,1994-03-07,9999-01-01,Staff
+48947,Sales,Filipp,Akaboshi,1965-01-05,1992-05-20,9999-01-01,Senior Staff
+49010,Marketing,Kazuhisa,Benantar,1965-01-16,1990-03-30,9999-01-01,Senior Staff
+49017,Development,Filipp,Flanders,1965-01-07,1990-11-26,9999-01-01,Senior Engineer
+49119,Production,Lena,Peek,1965-01-09,1991-05-16,9999-01-01,Senior Engineer
+49177,Production,Tze,Bach,1965-01-03,1999-03-09,9999-01-01,Engineer
+49464,Sales,Siddarth,Cappelletti,1965-01-14,1999-09-10,9999-01-01,Staff
+49477,Human Resources,Baocai,Leaver,1965-01-14,1998-08-05,9999-01-01,Senior Staff
+50293,Production,Xinan,Rindone,1965-01-26,1996-10-08,9999-01-01,Engineer
+50311,Quality Management,Mooi,Stafford,1965-01-24,1996-10-06,9999-01-01,Senior Engineer
+50453,Finance,Aron,Harbusch,1965-01-12,1997-10-02,9999-01-01,Staff
+50670,Marketing,Boguslaw,Snedden,1965-01-30,1985-02-20,9999-01-01,Staff
+50831,Production,Marie,Khalid,1965-01-06,1996-06-11,9999-01-01,Senior Engineer
+51036,Sales,Chriss,Fasbender,1965-01-29,1995-05-23,9999-01-01,Staff
+51057,Marketing,Theirry,Albarhamtoshy,1965-01-29,1991-09-27,9999-01-01,Staff
+51060,Development,Youngkon,Rohrbach,1965-01-15,1989-10-20,9999-01-01,Senior Engineer
+51142,Development,Rosine,Lakshmanan,1965-01-29,1986-01-31,9999-01-01,Senior Engineer
+52038,Production,Chikako,Armand,1965-01-13,1985-05-18,9999-01-01,Senior Engineer
+52040,Development,Phule,Heijenga,1965-01-14,1996-12-08,9999-01-01,Staff
+52283,Research,Trygve,Krupka,1965-01-20,1994-03-11,9999-01-01,Staff
+52386,Sales,Adas,Denti,1965-01-28,1986-05-30,9999-01-01,Senior Staff
+52590,Development,Jouni,Munoz,1965-01-21,1996-10-07,9999-01-01,Staff
+52599,Customer Service,Augustine,Mungall,1965-01-25,1994-01-13,9999-01-01,Senior Engineer
+52639,Sales,Arup,Colorni,1965-01-09,1996-02-05,9999-01-01,Senior Staff
+52770,Sales,Shugo,Yurek,1965-01-31,1992-08-28,9999-01-01,Staff
+52778,Quality Management,Alain,Penn,1965-01-15,1986-05-03,9999-01-01,Technique Leader
+52956,Quality Management,Khalil,Picci,1965-01-31,1998-11-24,9999-01-01,Senior Engineer
+52970,Production,Lobel,Werthner,1965-01-22,1988-03-17,9999-01-01,Senior Engineer
+53278,Sales,Premsyl,Lortz,1965-01-31,1993-02-01,9999-01-01,Staff
+53314,Research,Eberhardt,Carrera,1965-01-06,1999-02-23,9999-01-01,Staff
+53431,Customer Service,Sham,Vasanthakumar,1965-01-12,1993-05-24,9999-01-01,Senior Staff
+53499,Production,Zdislav,Mandelberg,1965-01-20,1994-09-11,9999-01-01,Senior Engineer
+53597,Development,Jiafu,Marchegay,1965-01-30,1985-03-02,9999-01-01,Senior Engineer
+53874,Marketing,Bodo,Schade,1965-01-23,1986-02-14,9999-01-01,Staff
+53924,Production,Arnould,Gaughan,1965-01-27,1991-01-23,9999-01-01,Engineer
+54198,Development,Shaowen,Segond,1965-01-01,1986-01-06,9999-01-01,Senior Engineer
+54632,Finance,Etsuo,Serot,1965-01-19,1989-06-14,9999-01-01,Senior Staff
+54795,Production,Sumant,Nergos,1965-01-29,1994-03-02,9999-01-01,Senior Staff
+54800,Sales,Breannda,Cangellaris,1965-01-13,2000-01-27,9999-01-01,Staff
+55640,Production,Adit,Syrotiuk,1965-01-25,1993-07-16,9999-01-01,Engineer
+55687,Development,Shih,Lindqvist,1965-01-02,1995-03-29,9999-01-01,Senior Engineer
+55799,Production,Jianwen,Litzler,1965-01-23,1987-06-17,9999-01-01,Senior Engineer
+55857,Sales,Adin,Scallan,1965-01-18,1987-09-15,9999-01-01,Staff
+56105,Development,Makato,Remmers,1965-01-11,1989-04-16,9999-01-01,Engineer
+56209,Production,Remzi,Douceur,1965-01-19,1992-12-01,9999-01-01,Senior Engineer
+56415,Finance,Sigeru,Nivat,1965-01-30,1991-10-24,9999-01-01,Staff
+56428,Sales,Olivera,Hanabata,1965-01-27,1986-11-10,9999-01-01,Staff
+56682,Development,Roded,Picco,1965-01-28,1993-11-06,9999-01-01,Assistant Engineer
+56829,Quality Management,Nagui,Gruenwald,1965-01-09,1997-06-14,9999-01-01,Engineer
+56847,Quality Management,Menkae,Chinin,1965-01-14,1998-08-27,9999-01-01,Senior Engineer
+57934,Development,Sanjoy,Boudaillier,1965-01-25,1989-12-27,9999-01-01,Engineer
+58141,Finance,Bezalel,Karner,1965-01-05,1994-09-27,9999-01-01,Staff
+58147,Marketing,Shigenori,Sullins,1965-01-09,1988-02-24,9999-01-01,Senior Staff
+58384,Development,Mariusz,Vural,1965-01-22,1993-11-14,9999-01-01,Senior Engineer
+58454,Production,Ziya,Zambonelli,1965-01-25,1999-06-29,9999-01-01,Engineer
+58497,Marketing,Yechiam,Cairo,1965-01-22,2000-10-21,9999-01-01,Senior Staff
+58819,Sales,Gennady,Liesche,1965-01-04,1987-12-02,9999-01-01,Senior Staff
+58990,Development,Palash,Trelles,1965-01-04,1998-11-18,9999-01-01,Engineer
+59195,Development,Ronnie,Pollock,1965-01-08,1990-06-19,9999-01-01,Technique Leader
+59640,Finance,Zita,Hiltgen,1965-01-18,1999-01-26,9999-01-01,Staff
+59869,Marketing,Zsolt,Riefers,1965-02-01,1987-09-25,9999-01-01,Senior Staff
+59966,Production,Steen,Salvesen,1965-01-28,1993-02-03,9999-01-01,Technique Leader
+60000,Development,Heekeun,Emmart,1965-01-16,1995-09-23,9999-01-01,Engineer
+60091,Customer Service,Surveyors,Bade,1965-02-01,1990-04-11,9999-01-01,Staff
+60238,Marketing,Erzsebet,Claffy,1965-01-23,1999-02-19,9999-01-01,Staff
+60559,Production,Jeanna,Stemann,1965-01-19,1988-08-29,9999-01-01,Engineer
+60821,Human Resources,Moty,Mersereau,1965-01-02,1991-09-03,9999-01-01,Senior Staff
+60845,Production,Bedir,Siegrist,1965-01-14,1997-05-13,9999-01-01,Engineer
+60875,Quality Management,Rildo,Masaki,1965-01-21,1990-01-14,9999-01-01,Senior Engineer
+60959,Marketing,Tetsushi,Sridhar,1965-01-09,1989-10-19,9999-01-01,Senior Staff
+61147,Marketing,Leszek,Werthner,1965-01-30,1999-03-03,9999-01-01,Staff
+61253,Research,Cheong,Uhrik,1965-01-09,2002-05-09,9999-01-01,Senior Engineer
+61377,Production,Dannz,Ohori,1965-01-01,1997-04-13,9999-01-01,Senior Staff
+61541,Development,Kasidit,Papsdorf,1965-01-08,1993-08-17,9999-01-01,Senior Engineer
+61873,Quality Management,Woody,Rusmann,1965-01-19,1993-02-26,9999-01-01,Assistant Engineer
+62033,Production,Heeju,Cappelli,1965-01-24,1987-01-15,9999-01-01,Engineer
+62046,Production,Karlis,Nanard,1965-01-31,1992-09-19,9999-01-01,Senior Engineer
+62245,Development,Adel,Bressoud,1965-01-01,1995-08-30,9999-01-01,Engineer
+63294,Production,Tetsushi,Tanemo,1965-01-23,1997-03-01,9999-01-01,Engineer
+63419,Production,Hiroyasu,Seuren,1965-01-14,1989-03-05,9999-01-01,Senior Engineer
+63441,Human Resources,Hinrich,Scallan,1965-01-15,1999-04-04,9999-01-01,Staff
+63566,Sales,Heekeun,Slaats,1965-01-31,1999-01-12,9999-01-01,Senior Staff
+63631,Customer Service,Falguni,Cherinka,1965-01-22,1987-10-15,9999-01-01,Senior Engineer
+63706,Development,Sedat,Itzigehl,1965-01-26,1997-07-31,9999-01-01,Engineer
+64023,Development,Laurentiu,Benzmuller,1965-01-11,1999-11-08,9999-01-01,Senior Engineer
+64209,Customer Service,Golgen,Schoegge,1965-01-24,1988-02-26,9999-01-01,Senior Staff
+64487,Quality Management,Tsutomu,Rebaine,1965-01-27,1986-09-17,9999-01-01,Senior Engineer
+64532,Production,Atilio,Segond,1965-01-23,1990-11-29,9999-01-01,Engineer
+64632,Sales,Zsolt,Brender,1965-01-07,1996-02-21,9999-01-01,Senior Staff
+64790,Development,Shin,Piveteau,1965-01-29,1985-04-19,9999-01-01,Senior Engineer
+64828,Sales,Krister,Pappas,1965-01-27,1999-09-30,9999-01-01,Staff
+64984,Quality Management,Eldridge,Eldridge,1965-01-06,1994-08-04,9999-01-01,Senior Engineer
+65171,Production,Jeane,Tasistro,1965-01-25,1994-07-06,9999-01-01,Technique Leader
+65539,Development,Aksel,Picaronny,1965-01-23,1991-01-27,9999-01-01,Engineer
+65883,Sales,Patricia,Pepe,1965-01-07,1991-04-19,9999-01-01,Staff
+65998,Sales,Mandell,Alameldin,1965-01-09,1989-04-08,9999-01-01,Staff
+66382,Production,Domenico,Candan,1965-01-04,1997-07-13,9999-01-01,Engineer
+66530,Research,Dung,Leaver,1965-01-29,1998-04-04,9999-01-01,Staff
+66643,Production,Jianhao,Tomescu,1965-01-18,1996-08-26,9999-01-01,Engineer
+66702,Development,Deniz,Thibadeau,1965-02-01,1994-09-27,9999-01-01,Engineer
+66757,Marketing,Yonghong,Baig,1965-01-16,1999-04-10,9999-01-01,Staff
+66807,Development,Aiman,Rosaz,1965-01-21,1990-05-22,9999-01-01,Senior Engineer
+67320,Marketing,Sadok,Lorys,1965-01-18,1987-05-10,9999-01-01,Senior Staff
+67548,Human Resources,Fumitaka,Roohalamini,1965-01-11,1998-06-27,9999-01-01,Staff
+67934,Production,Aiman,Gargeya,1965-01-07,1985-03-07,9999-01-01,Senior Engineer
+68416,Production,Munenori,Debuse,1965-01-27,1990-11-08,9999-01-01,Senior Engineer
+68608,Production,Yucai,Seghrouchni,1965-01-26,1989-06-09,9999-01-01,Senior Engineer
+68633,Production,Chinhyun,Rassart,1965-01-28,1993-07-29,9999-01-01,Senior Engineer
+68648,Development,Jaques,DiGiano,1965-01-25,1992-04-01,9999-01-01,Technique Leader
+69052,Sales,Shietung,Shrader,1965-01-26,1995-08-05,9999-01-01,Senior Staff
+69219,Marketing,Shuky,Redmiles,1965-01-09,1994-11-19,9999-01-01,Senior Staff
+69867,Sales,Miyeon,Rothe,1965-01-22,1991-04-09,9999-01-01,Staff
+69878,Development,Chinya,Cooke,1965-01-24,1997-01-29,9999-01-01,Engineer
+69936,Production,Lalit,Unni,1965-01-23,1999-01-31,9999-01-01,Assistant Engineer
+70469,Marketing,Tru,Miyakawa,1965-01-12,1990-09-03,9999-01-01,Senior Staff
+70990,Production,Arumugam,Nitta,1965-01-22,1990-03-23,9999-01-01,Senior Engineer
+71066,Sales,Domenick,Basart,1965-01-27,1996-01-05,9999-01-01,Senior Staff
+71141,Human Resources,Sajjad,Vitiello,1965-01-02,1992-02-17,9999-01-01,Senior Staff
+71188,Sales,Pranjal,Schapiro,1965-01-02,1986-12-14,9999-01-01,Staff
+71243,Production,Kinh,Buchter,1965-01-10,1986-03-29,9999-01-01,Senior Engineer
+71334,Research,Cathie,Peck,1965-01-15,2001-03-04,9999-01-01,Engineer
+71685,Production,Kristinn,Olano,1965-01-01,1989-10-03,9999-01-01,Senior Engineer
+71710,Development,Hitomi,Takanami,1965-01-31,1997-12-15,9999-01-01,Assistant Engineer
+71745,Development,Adil,Laventhal,1965-01-02,1992-05-13,9999-01-01,Assistant Engineer
+72190,Development,Sajjad,Waeselynck,1965-01-19,1999-09-13,9999-01-01,Engineer
+72194,Production,Feiyu,Siepmann,1965-01-26,1998-10-01,9999-01-01,Senior Engineer
+72232,Quality Management,Naraig,Veldwijk,1965-01-10,1989-07-10,9999-01-01,Senior Engineer
+72640,Quality Management,Honglan,Hutton,1965-01-24,1993-10-04,9999-01-01,Senior Engineer
+72918,Sales,Takahira,Szilard,1965-01-22,1988-01-16,9999-01-01,Staff
+73076,Development,Froduald,Feldhoffer,1965-01-22,1993-03-16,9999-01-01,Senior Engineer
+73233,Production,Shigeo,Merey,1965-01-15,1985-07-30,9999-01-01,Senior Engineer
+73516,Production,Qingxiang,Badache,1965-01-14,1989-06-25,9999-01-01,Senior Engineer
+73743,Customer Service,Anneke,Bernardeschi,1965-01-15,2000-10-15,9999-01-01,Engineer
+74200,Production,Holgard,Weiland,1965-01-16,1991-09-24,9999-01-01,Senior Engineer
+74344,Development,Hiroyasu,Provine,1965-02-01,1994-11-25,9999-01-01,Engineer
+74668,Sales,Masako,Bonifati,1965-01-01,1987-04-09,9999-01-01,Senior Staff
+74800,Production,Yuuichi,Conde,1965-01-25,1989-03-08,9999-01-01,Assistant Engineer
+75354,Development,Shuky,Jakobus,1965-01-11,1986-06-16,9999-01-01,Engineer
+75703,Development,Kyoichi,Erman,1965-01-08,1996-07-25,9999-01-01,Senior Engineer
+76189,Production,Kolar,Hinsberger,1965-01-02,1986-10-20,9999-01-01,Engineer
+76201,Development,Arif,Preusig,1965-01-10,1992-04-02,9999-01-01,Senior Engineer
+76640,Quality Management,Tristan,Mitsuhashi,1965-01-02,1994-07-13,9999-01-01,Engineer
+77030,Development,Faiza,Garnham,1965-01-02,1986-03-02,9999-01-01,Technique Leader
+77303,Customer Service,Xinglin,Birge,1965-01-18,1992-03-05,9999-01-01,Staff
+77647,Production,Niranjan,Schaaf,1965-01-07,1989-11-05,9999-01-01,Technique Leader
+77815,Development,Ronghao,Picaronny,1965-01-21,1993-06-09,9999-01-01,Engineer
+78106,Marketing,Ashish,Ratnaker,1965-01-09,2000-01-17,9999-01-01,Senior Staff
+78363,Quality Management,Susumu,Fritzsche,1965-01-03,1998-06-23,9999-01-01,Engineer
+78469,Human Resources,Leucio,Cappelli,1965-01-28,1997-08-22,9999-01-01,Staff
+78871,Development,Conor,Ghandeharizadeh,1965-01-15,1985-05-25,9999-01-01,Senior Engineer
+79043,Production,Katsuo,Hockney,1965-01-24,1999-11-07,9999-01-01,Technique Leader
+79171,Production,Guiseppe,Ellozy,1965-01-19,1991-01-12,9999-01-01,Senior Engineer
+79310,Marketing,Jeong,Cunliffe,1965-01-24,1996-10-27,9999-01-01,Senior Staff
+79606,Development,Arnd,Peir,1965-01-03,1986-12-11,9999-01-01,Senior Engineer
+79763,Marketing,Sanjoy,Barreiro,1965-01-20,1988-04-09,9999-01-01,Staff
+79895,Sales,Fei,Murtagh,1965-01-30,1986-01-19,9999-01-01,Senior Staff
+80067,Customer Service,Kazuhisa,Weiland,1965-01-19,1985-11-09,9999-01-01,Senior Staff
+80203,Sales,Shakhar,Baik,1965-01-22,1993-12-01,9999-01-01,Staff
+80432,Research,Stella,Figueira,1965-01-17,1990-03-14,9999-01-01,Staff
+80731,Sales,Shaowen,Eldridge,1965-01-25,1987-12-05,9999-01-01,Senior Staff
+80850,Production,Koldo,Luit,1965-02-01,1995-04-16,9999-01-01,Senior Engineer
+80889,Development,Shigeo,Linnainmaa,1965-01-07,1985-07-30,9999-01-01,Senior Engineer
+80948,Development,Harjit,Bardell,1965-01-27,1991-05-24,9999-01-01,Engineer
+81105,Development,Jaewon,Boissier,1965-01-14,1992-05-24,9999-01-01,Senior Engineer
+81545,Development,Larisa,Kornyak,1965-01-13,2000-02-07,9999-01-01,Technique Leader
+81644,Sales,Divine,Ghandeharizadeh,1965-01-05,1997-11-28,9999-01-01,Staff
+81995,Development,Sreekrishna,Brender,1965-01-10,1990-03-22,9999-01-01,Senior Engineer
+82069,Production,Yechezkel,Perfilyeva,1965-01-20,1994-11-03,9999-01-01,Senior Engineer
+82098,Production,Poornachandra,Wilharm,1965-01-25,1991-04-20,9999-01-01,Engineer
+82351,Human Resources,Stevo,Thambidurai,1965-01-26,1989-10-27,9999-01-01,Senior Staff
+82511,Development,Uwe,Koblick,1965-01-27,1998-04-04,9999-01-01,Engineer
+82919,Development,Shigeu,Claffy,1965-01-05,1998-12-19,9999-01-01,Engineer
+82928,Development,Alselm,Rikino,1965-01-27,1990-11-16,9999-01-01,Engineer
+83280,Production,Francesca,Ellozy,1965-01-07,1999-08-08,9999-01-01,Senior Engineer
+83289,Development,Shigeichiro,Engelmann,1965-01-09,1994-01-09,9999-01-01,Senior Engineer
+83509,Development,Breannda,Collavizza,1965-01-04,1989-10-12,9999-01-01,Senior Engineer
+83544,Sales,Leaf,Baak,1965-01-18,1994-09-05,9999-01-01,Staff
+83714,Customer Service,Ohad,Kilgore,1965-01-27,2000-10-10,9999-01-01,Engineer
+83805,Development,Manohar,Harllee,1965-01-23,1987-03-11,9999-01-01,Senior Engineer
+83941,Research,Zsolt,Hagimont,1965-01-11,1996-10-08,9999-01-01,Staff
+84029,Customer Service,Babette,Eugenio,1965-01-27,1997-09-21,9999-01-01,Staff
+84179,Production,Shuichi,Nanard,1965-01-25,1989-03-14,9999-01-01,Senior Engineer
+84236,Sales,Eberhardt,Barriga,1965-01-18,1987-06-04,9999-01-01,Staff
+84315,Development,Kristina,Baumann,1965-01-23,1996-09-26,9999-01-01,Assistant Engineer
+84451,Development,Shiv,Aumann,1965-01-20,1998-06-14,9999-01-01,Senior Engineer
+84508,Development,Tommaso,Vidya,1965-01-17,1998-05-02,9999-01-01,Engineer
+84840,Research,Sverrir,Neimat,1965-01-14,1996-11-03,9999-01-01,Staff
+84922,Development,Parke,Unno,1965-01-22,1996-07-01,9999-01-01,Engineer
+84942,Quality Management,Shin,Fujisaki,1965-01-15,1988-02-23,9999-01-01,Technique Leader
+85216,Finance,Ferdinand,Rosiles,1965-01-18,1997-07-08,9999-01-01,Senior Staff
+85288,Quality Management,Younwoo,Luders,1965-01-06,1998-12-08,9999-01-01,Senior Engineer
+85414,Finance,Chiradeep,Callaway,1965-01-14,1999-07-30,9999-01-01,Staff
+85445,Sales,Yongdong,Pollock,1965-01-09,1998-03-17,9999-01-01,Staff
+85702,Quality Management,Udi,Merks,1965-01-04,1997-08-15,9999-01-01,Engineer
+85874,Customer Service,Pasqua,Taubman,1965-01-30,1986-06-23,9999-01-01,Senior Staff
+86213,Marketing,Kristine,Clemencon,1965-01-28,1993-06-01,9999-01-01,Staff
+86354,Development,Ronghao,Segond,1965-01-27,1993-09-13,9999-01-01,Senior Engineer
+86422,Marketing,Jaewon,Thummel,1965-02-01,1985-09-14,9999-01-01,Senior Staff
+86546,Production,Oldrich,Woycyznski,1965-01-09,1985-05-15,9999-01-01,Senior Engineer
+86655,Production,Zhenhua,Lorys,1965-01-01,1995-08-21,9999-01-01,Engineer
+86672,Research,JoAnne,Anido,1965-01-15,1995-09-15,9999-01-01,Staff
+87129,Sales,Keung,Neiman,1965-01-16,1997-04-13,9999-01-01,Staff
+87353,Development,Quingbo,Coombs,1965-01-07,1999-01-17,9999-01-01,Senior Engineer
+87714,Production,Khun,Janetzko,1965-01-16,1989-09-13,9999-01-01,Engineer
+87729,Research,Yongmin,Roccetti,1965-01-24,1986-12-10,9999-01-01,Staff
+87783,Development,Conor,Thorensen,1965-01-26,1988-02-24,9999-01-01,Senior Engineer
+88103,Sales,Goo,Bresenham,1965-01-09,1999-01-31,9999-01-01,Senior Staff
+88411,Development,Lena,Cannane,1965-01-31,2000-01-28,9999-01-01,Engineer
+88422,Production,Jungsoon,Birsak,1965-01-28,1985-04-03,9999-01-01,Technique Leader
+88647,Development,Vasiliy,Ratnaker,1965-01-10,1995-08-09,9999-01-01,Engineer
+88958,Finance,Vojin,Coombs,1965-01-22,1995-07-23,9999-01-01,Staff
+88965,Development,Mang,Hedayat,1965-01-20,1995-05-22,9999-01-01,Engineer
+89048,Development,Otmar,Birjandi,1965-01-24,1985-03-23,9999-01-01,Senior Engineer
+89090,Human Resources,Tetsushi,Theuretzbacher,1965-01-26,1990-02-01,9999-01-01,Staff
+89161,Finance,Conal,Yetto,1965-01-07,1991-01-12,9999-01-01,Staff
+89207,Human Resources,Along,Erol,1965-01-15,1992-10-16,9999-01-01,Senior Staff
+89346,Development,Mansur,Comyn,1965-01-13,1999-08-31,9999-01-01,Engineer
+89590,Research,Guther,Rothenberg,1965-01-27,1991-08-08,9999-01-01,Senior Staff
+89664,Marketing,Pranjal,Rossi,1965-01-20,1998-07-07,9999-01-01,Staff
+89680,Production,Aiman,Mawatari,1965-01-27,1988-05-01,9999-01-01,Senior Engineer
+89806,Production,Xiadong,Shinomoto,1965-01-27,1997-05-24,9999-01-01,Senior Engineer
+89922,Production,Alexius,Ibel,1965-01-26,1988-04-24,9999-01-01,Engineer
+89941,Marketing,Arnould,Weedman,1965-01-23,1989-07-28,9999-01-01,Senior Staff
+90077,Development,Vivian,Guerreiro,1965-01-24,1991-07-08,9999-01-01,Engineer
+90084,Production,Renny,Bale,1965-01-01,1989-11-22,9999-01-01,Senior Engineer
+90211,Production,Bader,Denis,1965-01-15,1997-10-06,9999-01-01,Engineer
+90292,Production,Koichi,Assaf,1965-01-09,1990-05-26,9999-01-01,Engineer
+90518,Customer Service,Fumiko,Chepyzhov,1965-01-24,1988-01-28,9999-01-01,Senior Staff
+90614,Production,Yonghoan,Trogemann,1965-01-29,1988-09-23,9999-01-01,Engineer
+90692,Marketing,Rajmohan,DasSarma,1965-01-03,1985-09-14,9999-01-01,Senior Staff
+91172,Customer Service,Kazuhisa,Melter,1965-01-19,1987-07-16,9999-01-01,Senior Staff
+91182,Development,Lucien,Schwartzburd,1965-01-04,1988-08-25,9999-01-01,Senior Engineer
+91229,Production,Yahiko,Hebden,1965-01-01,1996-10-03,9999-01-01,Senior Engineer
+91256,Marketing,Gunilla,Milicic,1965-01-13,1998-01-09,9999-01-01,Staff
+91333,Sales,Lobel,Stafford,1965-01-27,1998-11-29,9999-01-01,Staff
+91415,Sales,Jamaludin,Nilsson,1965-01-04,1987-01-15,9999-01-01,Staff
+91648,Marketing,Dmitry,Msuda,1965-01-29,1988-10-22,9999-01-01,Staff
+92438,Customer Service,Aria,Kilgore,1965-01-04,1992-04-11,9999-01-01,Senior Engineer
+92454,Quality Management,Visit,McFarlan,1965-01-24,1987-10-22,9999-01-01,Senior Engineer
+92577,Production,Zhanqiu,Farrow,1965-01-06,1999-01-10,9999-01-01,Assistant Engineer
+92598,Production,Ranga,Merro,1965-01-18,1996-05-11,9999-01-01,Assistant Engineer
+92685,Sales,Mang,Atchley,1965-01-26,1995-06-07,9999-01-01,Senior Staff
+92841,Sales,Claude,Candan,1965-01-22,1993-08-04,9999-01-01,Senior Staff
+92846,Marketing,Anyuan,Kropatsch,1965-01-11,1986-09-05,9999-01-01,Senior Staff
+92920,Development,Huei,Hutter,1965-01-20,1993-01-28,9999-01-01,Senior Engineer
+93040,Development,Jaques,Kabayashi,1965-01-19,1992-03-13,9999-01-01,Senior Engineer
+93220,Quality Management,Richara,Walston,1965-01-11,1996-08-27,9999-01-01,Senior Engineer
+93278,Production,Magdalena,Penn,1965-02-01,1997-01-04,9999-01-01,Senior Engineer
+93549,Sales,Arie,Coullard,1965-02-01,2000-03-28,9999-01-01,Staff
+93600,Production,Kristina,Neimat,1965-01-13,1988-04-18,9999-01-01,Technique Leader
+94331,Production,Ramzi,Cronau,1965-01-26,1999-09-03,9999-01-01,Technique Leader
+94416,Sales,Aran,Cesareni,1965-01-01,2001-11-20,9999-01-01,Senior Staff
+94761,Development,Hitofumi,Zaccaria,1965-01-27,1988-11-22,9999-01-01,Senior Engineer
+94944,Development,Heping,Matheson,1965-01-13,1988-06-24,9999-01-01,Engineer
+95181,Research,Yishai,Cappelli,1965-01-28,1997-01-30,9999-01-01,Staff
+95286,Development,Kristin,Guerreiro,1965-01-18,1989-08-23,9999-01-01,Engineer
+95314,Sales,Rasiah,Koblick,1965-01-22,1991-08-21,9999-01-01,Staff
+95406,Development,Alair,Lyonns,1965-01-08,1997-07-12,9999-01-01,Engineer
+95416,Development,Gianluca,Ramaiah,1965-01-13,1993-11-29,9999-01-01,Engineer
+95509,Production,Kristinn,Loncour,1965-01-11,1995-02-08,9999-01-01,Engineer
+95920,Finance,Nobuyoshi,Hegner,1965-01-19,1994-09-07,9999-01-01,Staff
+96571,Production,Kokou,Garrabrants,1965-01-13,1997-11-05,9999-01-01,Senior Engineer
+96579,Production,Mohan,Tasistro,1965-01-18,1996-02-10,9999-01-01,Engineer
+96767,Production,Arumugam,Vecchio,1965-01-07,1985-08-14,9999-01-01,Engineer
+97018,Production,Jeanna,Chinen,1965-01-09,1989-01-01,9999-01-01,Engineer
+97623,Human Resources,Haldon,Janetzko,1965-01-25,1990-09-11,9999-01-01,Staff
+97661,Research,Avishai,Hegner,1965-01-31,1993-05-08,9999-01-01,Staff
+98288,Research,Sumali,Huttel,1965-01-12,1989-09-12,9999-01-01,Staff
+98306,Production,Ziya,Kadhim,1965-01-16,1999-06-24,9999-01-01,Senior Engineer
+98639,Research,Florina,Assaf,1965-01-29,1996-05-18,9999-01-01,Staff
+99057,Customer Service,Shugo,Reeken,1965-01-30,1999-06-21,9999-01-01,Staff
+99373,Customer Service,Xiaobin,Christianini,1965-01-13,1985-12-25,9999-01-01,Staff
+99377,Development,Carrsten,Francisci,1965-01-18,1991-06-16,9999-01-01,Senior Engineer
+99590,Sales,Dhritiman,Anily,1965-01-24,1998-12-16,9999-01-01,Staff
+99654,Research,Mahendra,Motley,1965-01-30,1985-09-28,9999-01-01,Senior Staff
+100865,Production,Hisao,Peral,1965-01-19,1990-10-03,9999-01-01,Senior Engineer
+100916,Development,Heejo,Aamodt,1965-01-18,1992-04-22,9999-01-01,Senior Engineer
+101487,Sales,Abdelaziz,Sury,1965-01-14,1991-01-31,9999-01-01,Staff
+101647,Sales,Mori,Homond,1965-01-22,1994-05-10,9999-01-01,Staff
+101902,Sales,Mantis,Millington,1965-01-14,1991-03-18,9999-01-01,Staff
+102620,Quality Management,Adin,Templeman,1965-01-03,1999-08-12,9999-01-01,Engineer
+103196,Human Resources,Djenana,Albarhamtoshy,1965-01-16,1988-07-16,9999-01-01,Staff
+103310,Marketing,Visit,Swen,1965-01-07,1995-10-02,9999-01-01,Senior Staff
+103316,Development,Susanne,Peternell,1965-01-03,1994-07-27,9999-01-01,Senior Engineer
+103342,Quality Management,Beshir,Hellwagner,1965-01-03,1998-02-03,9999-01-01,Engineer
+103756,Development,Heping,Halloran,1965-01-31,1992-04-08,9999-01-01,Engineer
+104133,Sales,Pranjal,Zyda,1965-01-31,1991-07-03,9999-01-01,Staff
+104845,Finance,Werner,Lodder,1965-01-29,1992-06-17,9999-01-01,Senior Staff
+104988,Development,Parviz,Litzler,1965-01-07,1992-08-08,9999-01-01,Engineer
+105342,Quality Management,Kwun,Reeker,1965-01-01,1999-07-29,9999-01-01,Technique Leader
+105356,Research,Diederik,Matzov,1965-01-29,1995-03-08,9999-01-01,Senior Engineer
+105432,Development,Mohamadou,Stafford,1965-01-08,1995-09-12,9999-01-01,Senior Engineer
+105520,Sales,Haldun,Lienhardt,1965-01-01,1987-01-29,9999-01-01,Senior Staff
+105731,Development,Sachem,Cromarty,1965-01-15,1990-08-20,9999-01-01,Engineer
+106096,Production,Naftali,Schurmann,1965-01-14,1992-12-02,9999-01-01,Senior Engineer
+106242,Human Resources,Nevio,Thisen,1965-02-01,1988-03-25,9999-01-01,Staff
+106695,Development,Lijie,Garrabrants,1965-01-31,1988-10-26,9999-01-01,Staff
+106710,Marketing,Babette,Anandan,1965-01-31,1986-11-22,9999-01-01,Staff
+107486,Development,Siamak,Luiz,1965-01-23,1987-02-11,9999-01-01,Senior Engineer
+107737,Development,Fabrizio,Chleq,1965-01-23,1999-07-31,9999-01-01,Senior Engineer
+107792,Marketing,Shahab,Crooks,1965-01-13,1992-03-18,9999-01-01,Staff
+107828,Sales,Ramya,Walston,1965-01-26,1989-02-03,9999-01-01,Senior Staff
+108091,Customer Service,Hisao,Ghemri,1965-01-09,1985-11-14,9999-01-01,Staff
+108198,Research,Randi,Samarati,1965-01-24,1992-10-20,9999-01-01,Staff
+108316,Production,Shai,Stellhorn,1965-01-02,1992-05-21,9999-01-01,Senior Engineer
+108988,Sales,Oksana,Baek,1965-01-19,1989-07-20,9999-01-01,Staff
+109062,Development,Jamaludin,Kandlur,1965-02-01,1992-06-19,9999-01-01,Senior Engineer
+109211,Research,Gor,Delgrande,1965-01-11,2002-06-18,9999-01-01,Engineer
+109252,Production,Moty,Winter,1965-01-15,1991-04-28,9999-01-01,Technique Leader
+109278,Finance,Bangqing,Schach,1965-01-21,1988-03-22,9999-01-01,Staff
+109552,Development,Menkae,Etalle,1965-01-31,1997-05-21,9999-01-01,Engineer
+109598,Finance,Stamatina,Auyong,1965-02-01,1988-07-05,9999-01-01,Senior Staff
+109620,Sales,Mani,Cannata,1965-01-02,1989-06-21,9999-01-01,Senior Staff
+109703,Production,Arco,Walston,1965-01-17,1999-08-16,9999-01-01,Engineer
+109741,Production,Hatem,Fadgyas,1965-01-11,1991-11-13,9999-01-01,Senior Engineer
+109953,Sales,Godehard,Chorvat,1965-01-26,1988-04-10,9999-01-01,Senior Staff
+200267,Customer Service,Chuanti,Luff,1965-01-08,1994-09-21,9999-01-01,Staff
+200312,Quality Management,Akemi,Fujisaki,1965-01-27,2001-11-13,9999-01-01,Senior Engineer
+200363,Development,Kirk,Quaggetto,1965-01-10,1987-06-30,9999-01-01,Engineer
+200735,Marketing,Dinah,Denos,1965-01-09,1992-09-21,9999-01-01,Staff
+200789,Marketing,Susumu,Camurati,1965-01-14,1991-12-15,9999-01-01,Staff
+201229,Human Resources,Alejandra,Khasidashvili,1965-01-03,1994-07-30,9999-01-01,Staff
+201708,Human Resources,Anneli,Perl,1965-01-15,1992-09-08,9999-01-01,Senior Staff
+201709,Finance,Fan,Kakkad,1965-01-01,1988-02-25,9999-01-01,Senior Staff
+201739,Development,Genta,Terekhov,1965-01-16,1998-07-21,9999-01-01,Assistant Engineer
+201801,Development,Waiman,Genin,1965-01-12,1988-10-30,9999-01-01,Engineer
+201915,Production,Sudharsan,DeMori,1965-01-02,1992-03-30,9999-01-01,Senior Engineer
+202291,Production,Ortrun,Schmiedel,1965-01-16,1997-07-18,9999-01-01,Engineer
+202403,Production,Gully,Perko,1965-01-09,1999-07-07,9999-01-01,Engineer
+202414,Customer Service,Zvonko,Murthy,1965-01-13,1992-01-07,9999-01-01,Senior Staff
+202552,Production,Morris,Saoudi,1965-01-05,1991-11-22,9999-01-01,Senior Engineer
+202826,Development,Kerhong,Matzke,1965-01-19,1986-11-14,9999-01-01,Senior Engineer
+202882,Development,Isaac,Koshino,1965-01-25,1995-09-28,9999-01-01,Senior Engineer
+202950,Human Resources,Giordano,Pietrzykowski,1965-01-17,1987-03-26,9999-01-01,Senior Staff
+203474,Sales,Hugh,Jonsson,1965-01-03,1991-07-06,9999-01-01,Staff
+203495,Development,Zongyan,Gips,1965-01-02,1997-05-31,9999-01-01,Technique Leader
+203599,Development,Ewing,DiGiano,1965-01-21,2000-02-01,9999-01-01,Technique Leader
+203720,Sales,Sasan,Thimonier,1965-01-30,1996-08-21,9999-01-01,Senior Staff
+203946,Human Resources,Yefim,Marwedel,1965-01-23,1993-03-30,9999-01-01,Staff
+204117,Customer Service,Jessie,Nooteboom,1965-01-10,2000-12-13,9999-01-01,Staff
+204133,Finance,Susuma,Bergere,1965-01-22,1996-02-25,9999-01-01,Senior Staff
+204246,Research,Arve,Worfolk,1965-01-09,1985-04-01,9999-01-01,Staff
+204425,Development,Gretta,Huttel,1965-01-03,1990-10-08,9999-01-01,Senior Engineer
+204470,Customer Service,Hein,Lichtner,1965-01-22,1998-05-02,9999-01-01,Staff
+204471,Development,Franziska,Maginnis,1965-01-27,1986-02-17,9999-01-01,Senior Engineer
+204764,Development,Susanne,Mandelberg,1965-01-22,1990-11-02,9999-01-01,Engineer
+205018,Quality Management,Yahiko,Awdeh,1965-01-26,1998-08-05,9999-01-01,Engineer
+205085,Development,Moni,Kornyak,1965-01-23,1991-09-26,9999-01-01,Technique Leader
+205174,Marketing,Leszek,Spinelli,1965-01-05,1998-12-10,9999-01-01,Staff
+205500,Development,Mary,Setiz,1965-01-04,1989-01-13,9999-01-01,Senior Engineer
+205627,Production,Stabislas,Broder,1965-01-21,1996-07-16,9999-01-01,Senior Engineer
+205660,Marketing,Kien,Barreiro,1965-01-27,2000-10-24,9999-01-01,Staff
+205699,Sales,Youjian,Yetto,1965-01-31,1994-12-07,9999-01-01,Senior Staff
+205789,Finance,Limsoon,Skafidas,1965-01-31,1999-08-10,9999-01-01,Senior Staff
+205863,Quality Management,Aiichiro,Kusalik,1965-01-06,1990-10-04,9999-01-01,Senior Engineer
+206748,Sales,Yucai,Fabrizio,1965-01-07,1999-10-06,9999-01-01,Staff
+206836,Research,Guadalupe,Pfau,1965-01-12,1993-03-22,9999-01-01,Staff
+206966,Development,Tzu,Sichman,1965-01-21,1987-11-17,9999-01-01,Engineer
+207021,Production,Jacqueline,Akaboshi,1965-01-20,1997-12-06,9999-01-01,Engineer
+207068,Marketing,Zhiguo,Ariola,1965-01-13,1994-09-07,9999-01-01,Senior Staff
+207204,Development,Kellie,Schrooten,1965-01-25,1991-01-17,9999-01-01,Assistant Engineer
+207401,Research,Shuji,Barbanera,1965-01-04,1987-08-10,9999-01-01,Staff
+207551,Development,Baziley,Falck,1965-01-15,1995-02-18,9999-01-01,Assistant Engineer
+207779,Research,Chinya,Kamble,1965-01-16,1992-05-31,9999-01-01,Senior Staff
+207980,Human Resources,Remko,Vieth,1965-01-07,1990-11-22,9999-01-01,Staff
+208147,Development,Manu,Rothenberg,1965-01-09,1988-12-06,9999-01-01,Senior Engineer
+208330,Sales,Shen,Flanders,1965-01-11,1989-07-03,9999-01-01,Staff
+208639,Customer Service,Larisa,Lukaszewicz,1965-01-27,1996-10-30,9999-01-01,Staff
+208653,Development,Phillip,Schade,1965-01-23,1989-03-03,9999-01-01,Engineer
+208784,Production,Pranjal,Juneja,1965-01-30,1985-03-21,9999-01-01,Senior Engineer
+209101,Quality Management,Xinyu,Edelhoff,1965-01-05,1997-10-26,9999-01-01,Senior Engineer
+209443,Human Resources,Krassimir,Garnier,1965-01-19,1998-01-26,9999-01-01,Senior Staff
+209565,Marketing,Dante,Covnot,1965-01-09,1989-05-28,9999-01-01,Senior Staff
+209712,Development,Nimmagadda,Baak,1965-01-17,1987-10-30,9999-01-01,Engineer
+210017,Human Resources,Shalesh,Lovengreen,1965-01-28,1990-09-29,9999-01-01,Staff
+210292,Human Resources,Lihong,Zeilberger,1965-01-18,1996-04-28,9999-01-01,Staff
+210449,Production,Gino,Lagarias,1965-01-19,1997-06-22,9999-01-01,Engineer
+210752,Marketing,Saniya,Stenning,1965-01-25,1986-12-10,9999-01-01,Staff
+210786,Human Resources,Werner,Ranze,1965-01-31,1998-06-05,9999-01-01,Staff
+211858,Production,Domenico,Ratnaker,1965-01-08,1985-03-24,9999-01-01,Senior Engineer
+211879,Development,Gao,Ranze,1965-01-12,1994-11-24,9999-01-01,Engineer
+211967,Development,Anwar,Bain,1965-01-07,1989-01-22,9999-01-01,Engineer
+212093,Human Resources,Leni,Henders,1965-01-11,1993-11-19,9999-01-01,Staff
+212154,Customer Service,Sailaja,Holburn,1965-01-17,1991-03-04,9999-01-01,Senior Staff
+212361,Quality Management,Claudi,Stanfel,1965-01-16,1996-01-07,9999-01-01,Engineer
+213016,Development,Yongmao,Fontan,1965-01-22,1993-07-26,9999-01-01,Senior Engineer
+213140,Sales,Tru,Danecki,1965-01-10,1997-03-31,9999-01-01,Staff
+213384,Development,Pranas,Narwekar,1965-01-04,1985-09-26,9999-01-01,Engineer
+213447,Production,Armond,Perly,1965-02-01,1989-09-14,9999-01-01,Senior Engineer
+214215,Sales,Xiaoqiang,Cardazo,1965-01-25,1993-05-28,9999-01-01,Senior Staff
+214391,Customer Service,Rayond,Klassen,1965-01-15,1993-09-11,9999-01-01,Staff
+214427,Production,Peer,Molberg,1965-01-29,1996-11-17,9999-01-01,Engineer
+214539,Development,Ingmar,Kohling,1965-01-27,1995-04-25,9999-01-01,Engineer
+214634,Development,Shirish,Vickson,1965-01-12,1989-10-24,9999-01-01,Engineer
+214789,Production,Arfst,Chepyzhov,1965-01-28,1989-02-06,9999-01-01,Engineer
+214866,Development,Gopalakrishnan,Angel,1965-02-01,1997-07-05,9999-01-01,Senior Engineer
+214995,Production,Dinkar,Hoppenstand,1965-01-12,1994-05-04,9999-01-01,Engineer
+215419,Human Resources,Flemming,Kroha,1965-01-16,1995-01-23,9999-01-01,Staff
+215629,Customer Service,Munehiro,Manders,1965-01-15,1987-05-18,9999-01-01,Senior Staff
+215746,Finance,Sven,Speer,1965-01-08,1999-07-08,9999-01-01,Staff
+215843,Marketing,Pramod,Loncour,1965-01-30,1987-03-31,9999-01-01,Senior Staff
+216054,Research,Sahrah,Angiulli,1965-01-24,1986-07-31,9999-01-01,Senior Staff
+216342,Development,Aiichiro,Cromarty,1965-01-22,1995-06-10,9999-01-01,Senior Engineer
+216375,Development,Byong,Gustavson,1965-01-16,1985-03-12,9999-01-01,Senior Engineer
+216502,Development,Xiaocheng,Suermann,1965-01-26,1997-12-15,9999-01-01,Engineer
+216573,Production,Ashish,Vidya,1965-01-29,1989-06-16,9999-01-01,Senior Engineer
+216921,Sales,Lena,Lenart,1965-01-22,1990-12-25,9999-01-01,Senior Staff
+217026,Sales,Otmar,Engberts,1965-01-11,1993-08-16,9999-01-01,Senior Staff
+217080,Development,Masami,Puoti,1965-01-12,2000-01-21,9999-01-01,Senior Engineer
+217272,Sales,Yuchang,Eldridge,1965-01-21,1986-08-01,9999-01-01,Staff
+217286,Development,Yannik,Spelt,1965-01-05,1992-09-22,9999-01-01,Technique Leader
+217320,Quality Management,Abdelwaheb,Denis,1965-01-10,1993-09-10,9999-01-01,Engineer
+217363,Customer Service,Horward,Marzano,1965-01-14,1996-04-11,9999-01-01,Staff
+217387,Development,Jianhao,Molenaar,1965-01-21,1987-10-22,9999-01-01,Senior Engineer
+217551,Production,Panayotis,Lukaszewicz,1965-01-02,1989-06-06,9999-01-01,Senior Engineer
+217800,Finance,Shay,Servieres,1965-02-01,1998-08-06,9999-01-01,Senior Staff
+218022,Development,Mokhtar,Poupard,1965-01-26,1992-02-02,9999-01-01,Technique Leader
+218100,Human Resources,Jiong,Garnham,1965-01-24,1990-01-02,9999-01-01,Staff
+218831,Production,Unal,DuBourdieux,1965-01-16,1996-03-13,9999-01-01,Engineer
+219035,Quality Management,Kristine,Bierman,1965-01-18,1988-05-13,9999-01-01,Technique Leader
+219047,Development,Aemilian,Kusalik,1965-01-30,1987-05-27,9999-01-01,Senior Engineer
+219052,Marketing,Marsal,Acton,1965-01-06,1995-08-02,9999-01-01,Staff
+219417,Research,Subhrajyoti,Denna,1965-01-29,1996-07-25,9999-01-01,Staff
+219497,Development,Moie,Zastre,1965-01-22,1991-10-11,9999-01-01,Technique Leader
+219967,Human Resources,Susanna,Reeken,1965-01-16,1998-03-16,9999-01-01,Senior Staff
+220029,Development,Demos,Asser,1965-01-17,1985-11-04,9999-01-01,Senior Engineer
+220131,Development,Reinhard,Slaats,1965-01-09,1994-06-08,9999-01-01,Senior Engineer
+220418,Sales,Poorav,Laventhal,1965-01-23,1997-08-16,9999-01-01,Staff
+220528,Research,Sibyl,Rabehasaina,1965-01-06,1998-02-23,9999-01-01,Senior Staff
+220582,Marketing,Poornachandra,Zielinski,1965-01-08,1996-02-13,9999-01-01,Senior Staff
+220611,Sales,Yuping,Babb,1965-01-23,1995-01-31,9999-01-01,Senior Staff
+220625,Production,Shigenori,Deville,1965-01-25,1992-12-24,9999-01-01,Technique Leader
+220699,Customer Service,Nahid,Gyimothy,1965-01-07,1995-08-18,9999-01-01,Staff
+220799,Research,Perla,Orlowska,1965-01-17,1998-10-13,9999-01-01,Senior Engineer
+221126,Development,Tesuya,dAstous,1965-01-23,1988-11-29,9999-01-01,Engineer
+221367,Customer Service,Saddek,Farris,1965-01-13,1990-11-06,9999-01-01,Senior Staff
+221369,Quality Management,Abdulah,Pocchiola,1965-01-28,1996-08-28,9999-01-01,Engineer
+221435,Production,Djenana,Marrevee,1965-01-06,1994-02-06,9999-01-01,Senior Engineer
+221973,Marketing,Sangeeta,Kalefeld,1965-01-17,1990-06-06,9999-01-01,Senior Staff
+222206,Human Resources,Stein,Uludag,1965-01-21,1988-01-30,9999-01-01,Senior Staff
+222311,Development,Miyeon,Billingsley,1965-01-20,1992-12-05,9999-01-01,Senior Engineer
+222319,Development,Matt,Chvatal,1965-01-20,1994-11-09,9999-01-01,Senior Engineer
+222354,Development,Valdiodio,Schlumberger,1965-01-15,1993-08-07,9999-01-01,Engineer
+222616,Quality Management,Badri,Schapire,1965-02-01,1998-01-19,9999-01-01,Assistant Engineer
+222770,Development,Kazuhiko,Kushner,1965-01-22,1995-08-01,9999-01-01,Senior Engineer
+222878,Production,Annemarie,Zallocco,1965-01-10,1996-12-01,9999-01-01,Senior Engineer
+222926,Development,Limsoon,Erol,1965-01-10,1997-12-31,9999-01-01,Senior Engineer
+222952,Production,Gopalakrishnan,Suermann,1965-01-28,1991-04-30,9999-01-01,Engineer
+222998,Marketing,Leaf,Awdeh,1965-01-07,1992-10-02,9999-01-01,Senior Staff
+223593,Marketing,Hidefumi,Moehrke,1965-01-20,1998-03-04,9999-01-01,Staff
+223595,Production,Chiranjit,Dredge,1965-02-01,1999-09-05,9999-01-01,Technique Leader
+224135,Development,Annemarie,Bressoud,1965-01-02,1998-06-23,9999-01-01,Engineer
+224335,Development,Perry,Chachaty,1965-01-29,1985-07-22,9999-01-01,Senior Engineer
+224390,Research,True,Shobatake,1965-01-24,1996-05-17,9999-01-01,Senior Staff
+224934,Human Resources,George,Miake,1965-01-05,1988-01-02,9999-01-01,Senior Staff
+225438,Sales,Remmert,Quaggetto,1965-01-14,1992-04-28,9999-01-01,Senior Staff
+225601,Development,Masasuke,Genin,1965-01-13,1994-06-25,9999-01-01,Engineer
+225788,Development,Ipke,Kieras,1965-01-08,1995-12-18,9999-01-01,Engineer
+225867,Quality Management,Ramalingam,Remmele,1965-01-26,1999-09-03,9999-01-01,Senior Engineer
+225964,Production,Mooi,Cooman,1965-01-19,1989-06-07,9999-01-01,Senior Engineer
+226216,Quality Management,Giordano,Gini,1965-01-28,1993-08-14,9999-01-01,Technique Leader
+226227,Production,Herbert,Erva,1965-01-07,1986-09-06,9999-01-01,Senior Engineer
+227354,Development,Gio,Murtha,1965-01-12,1986-11-11,9999-01-01,Senior Engineer
+227476,Development,Macha,Schnabel,1965-01-11,1988-05-11,9999-01-01,Engineer
+227681,Finance,Mikhail,Rousseau,1965-01-30,1998-11-30,9999-01-01,Staff
+227899,Marketing,Garnik,Luce,1965-01-23,1998-09-15,9999-01-01,Staff
+227901,Research,Francesca,Azuma,1965-01-26,1996-06-08,9999-01-01,Staff
+228098,Customer Service,IEEE,Kroll,1965-01-18,1998-02-17,9999-01-01,Engineer
+228248,Research,Yuriy,Plump,1965-01-09,1988-09-08,9999-01-01,Staff
+228554,Sales,Bilhanan,Brendel,1965-01-03,1990-12-23,9999-01-01,Senior Staff
+228766,Production,Nahla,Smailagic,1965-01-11,1993-02-12,9999-01-01,Senior Engineer
+229098,Customer Service,Berry,Yurek,1965-01-08,1995-08-16,9999-01-01,Senior Staff
+229220,Production,Fabrizio,Lichtman,1965-01-21,1987-02-09,9999-01-01,Engineer
+229248,Research,Harjit,Terekhov,1965-01-27,1995-10-19,9999-01-01,Staff
+229386,Customer Service,Pohua,Tasistro,1965-01-03,1994-11-04,9999-01-01,Technique Leader
+229391,Production,Paloma,Henseler,1965-01-15,1991-06-11,9999-01-01,Engineer
+229404,Human Resources,Gilbert,Kilgour,1965-01-11,1996-04-05,9999-01-01,Staff
+229547,Sales,Moni,Schach,1965-01-03,1986-07-04,9999-01-01,Senior Staff
+229727,Development,Ewing,Millington,1965-01-23,1999-09-28,9999-01-01,Engineer
+229981,Production,Jamaludin,Fordan,1965-01-19,1992-02-06,9999-01-01,Senior Engineer
+230002,Development,Tadahiro,Backhouse,1965-01-07,1991-10-02,9999-01-01,Senior Engineer
+230126,Customer Service,Bezalel,Radivojevic,1965-01-31,1988-07-02,9999-01-01,Senior Staff
+230287,Production,Renny,Alameldin,1965-01-14,1997-09-28,9999-01-01,Assistant Engineer
+230354,Human Resources,Yinghua,Lorho,1965-01-31,1991-08-09,9999-01-01,Staff
+230498,Production,Kolar,Puppo,1965-01-15,1990-04-25,9999-01-01,Engineer
+230579,Finance,Shahar,Negoita,1965-01-17,1994-03-19,9999-01-01,Senior Staff
+230689,Sales,Dietrich,Crabtree,1965-01-14,1986-05-24,9999-01-01,Senior Staff
+230865,Marketing,Takushi,Brattka,1965-01-02,1999-06-03,9999-01-01,Staff
+231069,Sales,Trygve,Siksek,1965-01-22,1995-11-09,9999-01-01,Staff
+231459,Production,Nectarios,Pramanik,1965-01-28,1999-11-18,9999-01-01,Assistant Engineer
+231671,Customer Service,Chandrasekaran,Pearson,1965-01-07,1995-04-14,9999-01-01,Staff
+231798,Development,Goetz,Alvarado,1965-01-28,1988-12-25,9999-01-01,Engineer
+232178,Human Resources,Etsuo,Anandan,1965-01-29,1989-12-13,9999-01-01,Staff
+232209,Quality Management,Nitsan,Rouquie,1965-01-11,1988-08-01,9999-01-01,Engineer
+232697,Production,Barry,Ramsak,1965-01-23,1990-09-07,9999-01-01,Senior Engineer
+232723,Quality Management,Tesuya,Bugrara,1965-01-14,1993-02-13,9999-01-01,Engineer
+233114,Development,Alselm,Gargeya,1965-01-20,1987-12-25,9999-01-01,Senior Engineer
+233394,Development,Khalid,Lenart,1965-01-06,1995-12-24,9999-01-01,Engineer
+233397,Sales,Fay,Sundgren,1965-01-16,1990-07-07,9999-01-01,Staff
+233426,Development,Etsuo,Usery,1965-01-12,1995-03-02,9999-01-01,Senior Engineer
+233690,Development,Cedric,Riefers,1965-01-17,1994-09-08,9999-01-01,Engineer
+233759,Customer Service,Zissis,Lodder,1965-01-14,2000-05-27,9999-01-01,Engineer
+233765,Development,Kotesh,Chachaty,1965-01-20,1991-03-25,9999-01-01,Engineer
+233785,Sales,Baziley,Ballarin,1965-01-30,1987-07-28,9999-01-01,Staff
+233818,Development,Kellie,Heydon,1965-01-01,1985-11-11,9999-01-01,Engineer
+234195,Sales,Luerbio,Terkki,1965-01-07,1991-05-14,9999-01-01,Staff
+234739,Production,Foong,Aamodt,1965-01-31,1986-06-28,9999-01-01,Senior Engineer
+235017,Sales,Irena,Dratva,1965-01-17,1991-09-07,9999-01-01,Staff
+235096,Customer Service,Sverrir,Gyimothy,1965-01-21,1995-07-30,9999-01-01,Senior Staff
+235325,Development,Gro,Prochazka,1965-01-06,1992-10-16,9999-01-01,Senior Engineer
+235368,Production,Anneli,Joslin,1965-01-09,1987-04-12,9999-01-01,Senior Engineer
+235458,Research,Gio,Heuser,1965-01-05,1992-06-28,9999-01-01,Staff
+235729,Marketing,Henk,Anger,1965-02-01,1993-01-19,9999-01-01,Senior Staff
+235780,Production,Sampalli,Bergere,1965-01-17,1994-04-08,9999-01-01,Senior Engineer
+235793,Quality Management,Jayesh,Spinelli,1965-01-03,1999-01-16,9999-01-01,Senior Engineer
+236315,Development,IEEE,Raczkowsky,1965-01-31,1996-07-24,9999-01-01,Technique Leader
+236566,Customer Service,Yechezkel,Maginnis,1965-01-17,1992-12-11,9999-01-01,Senior Staff
+236591,Marketing,Insup,Reinhard,1965-01-11,1985-04-08,9999-01-01,Senior Staff
+236827,Development,Almudena,Rijckaert,1965-01-28,1994-02-16,9999-01-01,Engineer
+236883,Sales,Huan,Olivero,1965-01-27,1999-11-19,9999-01-01,Staff
+236964,Customer Service,Adel,Foote,1965-01-17,2000-03-20,9999-01-01,Staff
+238112,Production,Miomir,Frezza,1965-01-12,1991-05-25,9999-01-01,Technique Leader
+238252,Sales,Uno,Suppi,1965-01-09,1996-12-27,9999-01-01,Staff
+238422,Sales,Vishv,Angelov,1965-01-10,1988-03-08,9999-01-01,Senior Staff
+238949,Sales,Minghong,Cronin,1965-01-09,1987-10-04,9999-01-01,Senior Staff
+239067,Sales,Tadahiko,Pocchiola,1965-01-11,1996-04-02,9999-01-01,Staff
+239244,Sales,Abdulla,Kitai,1965-01-13,1987-02-20,9999-01-01,Staff
+239415,Production,Susumu,Brender,1965-01-01,1993-04-17,9999-01-01,Engineer
+239426,Research,Vesna,Fairtlough,1965-01-08,2002-05-07,9999-01-01,Engineer
+239664,Production,Sugwoo,Michaels,1965-01-04,1992-08-02,9999-01-01,Senior Engineer
+239706,Production,Arunas,Bugrara,1965-01-15,1997-04-03,9999-01-01,Assistant Engineer
+239748,Sales,Bilhanan,Dusink,1965-01-23,1988-06-04,9999-01-01,Staff
+239803,Research,Oscal,Ernst,1965-01-30,1992-05-19,9999-01-01,Staff
+240132,Customer Service,Mizuhito,Kobara,1965-02-01,1996-08-09,9999-01-01,Staff
+240236,Production,True,Tischendorf,1965-01-24,1986-01-19,9999-01-01,Senior Engineer
+240285,Customer Service,Kolar,Greenaway,1965-01-23,1998-11-14,9999-01-01,Staff
+240340,Production,Mack,Staylopatis,1965-01-14,1985-04-02,9999-01-01,Senior Engineer
+240438,Customer Service,Temple,Cyre,1965-01-02,1992-09-30,9999-01-01,Staff
+240870,Production,Francesca,Chorvat,1965-01-06,1992-03-17,9999-01-01,Senior Staff
+241100,Development,Cedric,Molenaar,1965-01-23,1990-10-06,9999-01-01,Engineer
+241254,Development,Jagoda,Anguita,1965-01-15,1993-05-11,9999-01-01,Senior Engineer
+241292,Customer Service,Uri,Lampe,1965-01-29,2001-12-11,9999-01-01,Senior Staff
+241567,Development,Emran,Miara,1965-01-18,1989-05-02,9999-01-01,Senior Engineer
+241667,Production,Atilio,Olivero,1965-01-28,1985-09-04,9999-01-01,Senior Engineer
+241728,Customer Service,Limsoon,Boudaillier,1965-01-30,1999-08-08,9999-01-01,Senior Engineer
+241872,Development,Bluma,Fetvedt,1965-01-11,2001-11-14,9999-01-01,Staff
+242019,Production,Herb,Murrill,1965-01-09,2001-10-28,9999-01-01,Senior Engineer
+242081,Production,Tomokazu,Pargas,1965-01-12,1996-11-15,9999-01-01,Engineer
+242104,Marketing,Richara,Sudkamp,1965-01-05,1989-09-05,9999-01-01,Staff
+242500,Sales,Bingning,Iisaku,1965-01-08,1989-06-26,9999-01-01,Staff
+242800,Development,Kazuyasu,Levergood,1965-01-11,1996-02-10,9999-01-01,Engineer
+243018,Marketing,Bowen,Deverell,1965-01-02,1998-12-27,9999-01-01,Senior Staff
+243077,Production,Kazunori,Perz,1965-02-01,1999-02-25,9999-01-01,Senior Engineer
+243576,Sales,Abdulah,Lodder,1965-01-04,1996-11-10,9999-01-01,Senior Staff
+243637,Marketing,Marjo,Delgrange,1965-01-16,1990-06-24,9999-01-01,Staff
+243898,Marketing,Arch,Basawa,1965-01-09,1998-05-10,9999-01-01,Staff
+244308,Marketing,Mokhtar,Rebaine,1965-01-10,1991-07-23,9999-01-01,Staff
+244605,Finance,Masoud,Suwa,1965-01-22,1998-10-10,9999-01-01,Staff
+244624,Research,Boaz,Seuren,1965-01-31,1987-03-27,9999-01-01,Staff
+244711,Production,Rosli,Butner,1965-01-25,1991-03-20,9999-01-01,Engineer
+244714,Production,Poorav,Clouatre,1965-01-27,1996-05-06,9999-01-01,Senior Engineer
+244820,Development,Shigenori,Hertweck,1965-01-15,1987-04-13,9999-01-01,Senior Engineer
+244873,Sales,Arunachalam,Oppitz,1965-01-04,1986-05-20,9999-01-01,Staff
+245164,Production,Filipp,Winter,1965-01-23,1996-10-24,9999-01-01,Senior Engineer
+245396,Human Resources,Gift,Bottner,1965-01-31,1995-03-04,9999-01-01,Senior Staff
+245664,Sales,Manohar,Kilgore,1965-01-18,1998-11-17,9999-01-01,Staff
+246146,Quality Management,Zhongwei,Melski,1965-01-30,1987-09-04,9999-01-01,Engineer
+246244,Human Resources,George,Casperson,1965-01-09,2000-01-20,9999-01-01,Staff
+246364,Development,Alper,Tiemann,1965-01-06,1998-10-29,9999-01-01,Engineer
+246764,Sales,Shuzo,Czaja,1965-01-04,1997-11-29,9999-01-01,Staff
+246798,Marketing,Tianruo,Strooper,1965-01-09,2001-12-07,9999-01-01,Staff
+246902,Human Resources,Shih,Shanbhogue,1965-01-27,1998-04-19,9999-01-01,Staff
+247089,Sales,Seongbae,Schahn,1965-01-17,1992-12-10,9999-01-01,Senior Staff
+247122,Human Resources,Xiaobin,Narlikar,1965-01-23,1992-02-14,9999-01-01,Senior Staff
+247447,Production,Tzu,Bakhtari,1965-01-28,1994-03-18,9999-01-01,Senior Engineer
+247456,Production,Masako,Bahk,1965-01-16,1997-07-31,9999-01-01,Engineer
+247612,Development,Chiranjit,Constantine,1965-01-04,1997-05-25,9999-01-01,Engineer
+247875,Marketing,Xiong,Anick,1965-01-02,1991-04-23,9999-01-01,Senior Staff
+247888,Quality Management,Abdelghani,Lagarias,1965-01-15,1985-09-06,9999-01-01,Engineer
+248256,Sales,Sajjan,Falby,1965-01-05,1996-08-29,9999-01-01,Staff
+248351,Marketing,Jaana,Milicia,1965-02-01,1985-06-02,9999-01-01,Senior Staff
+248758,Customer Service,Snehasis,Muhlberg,1965-02-01,1994-12-25,9999-01-01,Senior Staff
+248953,Production,Percy,Sudbeck,1965-01-29,1996-08-29,9999-01-01,Assistant Engineer
+249239,Development,Hideyuki,Decleir,1965-01-21,1994-05-04,9999-01-01,Senior Engineer
+249325,Sales,Ute,Pokrovskii,1965-01-26,1997-06-09,9999-01-01,Staff
+249433,Production,Ayonca,Matzov,1965-01-16,1988-06-03,9999-01-01,Engineer
+249504,Research,Dmitry,Velardi,1965-01-07,1995-10-20,9999-01-01,Engineer
+249780,Customer Service,Nechama,Gaughan,1965-01-12,1993-07-09,9999-01-01,Senior Engineer
+249799,Development,Jolita,Neimat,1965-01-04,1993-12-27,9999-01-01,Engineer
+249866,Sales,Steen,Gubsky,1965-01-15,1989-01-14,9999-01-01,Senior Staff
+249969,Production,Georgi,Luiz,1965-01-21,1991-06-10,9999-01-01,Senior Engineer
+250411,Sales,Ranga,Sommen,1965-01-27,1989-01-20,9999-01-01,Staff
+250452,Development,Alexius,Plavsic,1965-01-14,2000-01-17,9999-01-01,Senior Engineer
+250748,Development,Kish,Turnbull,1965-01-27,1987-02-10,9999-01-01,Senior Engineer
+251166,Finance,Hinrich,Hooghiemstra,1965-01-22,1985-10-05,9999-01-01,Senior Staff
+251233,Production,Yucel,Bernini,1965-01-07,1993-02-19,9999-01-01,Senior Engineer
+251301,Sales,Pintsang,Impagliazzo,1965-01-30,1989-05-06,9999-01-01,Senior Staff
+251341,Human Resources,Divier,Kumaresan,1965-01-11,1992-12-05,9999-01-01,Senior Staff
+251403,Development,Utpal,DuBourdieux,1965-01-01,1997-11-19,9999-01-01,Technique Leader
+251437,Development,Shichao,Iwayama,1965-01-20,1989-10-17,9999-01-01,Engineer
+251645,Sales,Bezalel,Tsunoo,1965-01-06,1992-06-17,9999-01-01,Staff
+251680,Development,Moty,Sommen,1965-01-05,1990-08-14,9999-01-01,Senior Engineer
+251814,Production,Mitsuyuki,Zockler,1965-01-01,1998-09-14,9999-01-01,Technique Leader
+252185,Quality Management,Chaosheng,Conta,1965-01-01,1997-04-14,9999-01-01,Engineer
+252316,Development,Gill,Niizuma,1965-01-07,1994-10-08,9999-01-01,Engineer
+252392,Production,Sanjeeva,Peron,1965-01-01,1993-12-26,9999-01-01,Senior Engineer
+253029,Quality Management,Thodoros,Thimonier,1965-01-13,1995-04-05,9999-01-01,Engineer
+253707,Sales,Insup,Hainaut,1965-01-05,1998-02-11,9999-01-01,Staff
+253838,Production,Stafford,Terlouw,1965-01-28,1999-02-21,9999-01-01,Assistant Engineer
+253893,Production,Huiqun,Trystram,1965-01-04,1993-05-10,9999-01-01,Senior Engineer
+254044,Quality Management,Gunilla,Brendel,1965-01-16,1992-04-10,9999-01-01,Senior Engineer
+254399,Production,Armond,Lores,1965-01-24,1999-09-16,9999-01-01,Technique Leader
+254821,Sales,Tonny,Couchot,1965-01-24,1994-12-12,9999-01-01,Staff
+255466,Production,Huan,Roccetti,1965-01-18,1985-07-03,9999-01-01,Senior Engineer
+255657,Development,Oldrich,Cyre,1965-01-20,1985-02-10,9999-01-01,Engineer
+255779,Production,Heejo,Merle,1965-01-31,1997-09-04,9999-01-01,Technique Leader
+256216,Production,Halsur,Brodal,1965-01-01,1997-11-22,9999-01-01,Engineer
+256856,Human Resources,Hongzue,Barbanera,1965-01-03,1987-06-17,9999-01-01,Staff
+256881,Development,Ioana,Jakobus,1965-01-03,1990-08-10,9999-01-01,Engineer
+256888,Marketing,Heather,Pehl,1965-01-03,1993-09-15,9999-01-01,Staff
+257062,Development,Stabislas,Pardalos,1965-01-24,1989-06-21,9999-01-01,Engineer
+257378,Marketing,Pascal,Bernatsky,1965-01-06,1988-09-03,9999-01-01,Staff
+257469,Finance,Anyuan,Hanratty,1965-01-22,1988-01-06,9999-01-01,Staff
+257484,Human Resources,Shaowei,Nicolson,1965-01-01,1986-12-07,9999-01-01,Staff
+258028,Research,Mountaz,Reinhart,1965-01-07,2001-07-03,9999-01-01,Engineer
+258124,Sales,Mariusz,Zolotykh,1965-01-17,1990-07-28,9999-01-01,Senior Staff
+258470,Sales,Weiwu,Butner,1965-01-04,1995-02-14,9999-01-01,Staff
+258643,Development,Przemyslawa,Esposito,1965-01-11,1992-02-27,9999-01-01,Senior Engineer
+259042,Sales,Xiaoqiang,Farrow,1965-01-12,1997-01-01,9999-01-01,Staff
+259237,Customer Service,Palash,Gammage,1965-01-27,1987-10-23,9999-01-01,Senior Staff
+259273,Production,Xiahua,Gomatam,1965-01-22,1989-12-01,9999-01-01,Senior Engineer
+259611,Sales,Shuichi,Marrakchi,1965-01-27,1990-08-21,9999-01-01,Senior Staff
+259619,Finance,Conal,Magliocco,1965-01-21,1992-05-09,9999-01-01,Senior Staff
+259718,Development,Stepehn,Bouloucos,1965-01-24,1993-12-13,9999-01-01,Senior Staff
+260153,Development,Mingdong,Baar,1965-01-28,1991-10-14,9999-01-01,Technique Leader
+260249,Customer Service,Vugranam,Beausoleil,1965-01-22,1998-05-14,9999-01-01,Staff
+260361,Production,Reinhold,Rahier,1965-01-25,1997-10-09,9999-01-01,Engineer
+260399,Finance,Hatem,Birsak,1965-01-30,1989-04-10,9999-01-01,Staff
+260408,Customer Service,Sasan,Brookner,1965-01-19,1996-09-03,9999-01-01,Senior Staff
+260501,Development,Dzung,Pargas,1965-01-14,1990-05-17,9999-01-01,Technique Leader
+261184,Production,Masako,Kornatzky,1965-01-30,1987-08-29,9999-01-01,Senior Engineer
+261631,Development,Jianhua,Huttel,1965-01-08,1998-02-23,9999-01-01,Engineer
+261662,Finance,Berni,Assaf,1965-01-11,1989-09-08,9999-01-01,Senior Staff
+261737,Production,Mark,Lindqvist,1965-01-23,1990-11-22,9999-01-01,Engineer
+261986,Development,Gila,Ramsak,1965-01-21,1997-05-13,9999-01-01,Senior Engineer
+261990,Sales,Volkmar,Czaja,1965-01-16,1992-04-01,9999-01-01,Staff
+262208,Sales,Mrinalini,Holburn,1965-01-16,1987-05-23,9999-01-01,Senior Staff
+262210,Development,Chinho,Bottner,1965-01-22,1985-07-29,9999-01-01,Assistant Engineer
+262328,Sales,Mayuko,Vural,1965-01-03,1997-12-24,9999-01-01,Staff
+262439,Marketing,Lorien,Lagarias,1965-01-30,1985-10-10,9999-01-01,Staff
+262636,Production,Tamiya,Reutenauer,1965-01-04,1992-04-10,9999-01-01,Senior Engineer
+262752,Development,Pramod,Bierman,1965-01-04,1997-12-12,9999-01-01,Engineer
+262928,Quality Management,Piyush,Gill,1965-01-01,1995-02-20,9999-01-01,Engineer
+263012,Human Resources,Hideo,Buchter,1965-01-09,1999-05-01,9999-01-01,Staff
+263186,Development,Danny,Lowrie,1965-01-22,1995-09-13,9999-01-01,Technique Leader
+263370,Sales,Shakhar,Ranze,1965-01-03,1999-05-29,9999-01-01,Staff
+263439,Development,Atreye,Kabayashi,1965-01-09,1986-12-15,9999-01-01,Senior Engineer
+263645,Development,Mingsen,Lally,1965-01-19,1990-12-04,9999-01-01,Senior Engineer
+263649,Sales,Mechthild,Zongker,1965-01-17,1993-07-26,9999-01-01,Senior Staff
+263926,Sales,Fusako,Schwartzbauer,1965-01-03,1985-04-07,9999-01-01,Staff
+264030,Production,Zdislav,Solares,1965-01-15,1990-12-14,9999-01-01,Engineer
+264167,Development,Baoqiu,Tomescu,1965-01-25,1996-05-01,9999-01-01,Senior Engineer
+264322,Sales,Leandro,Swist,1965-01-03,1991-01-06,9999-01-01,Senior Staff
+264626,Marketing,Noritoshi,Bakhtari,1965-01-13,1993-02-03,9999-01-01,Staff
+264939,Production,Bogdan,Bahi,1965-01-10,1999-02-13,9999-01-01,Engineer
+265039,Finance,Navid,Staudhammer,1965-01-03,1992-10-18,9999-01-01,Staff
+265521,Production,Kensei,Salverda,1965-01-04,1993-05-25,9999-01-01,Senior Engineer
+265558,Sales,Susuma,Kleiser,1965-01-31,1987-08-02,9999-01-01,Staff
+265794,Sales,Miquel,Halloran,1965-01-15,1994-01-14,9999-01-01,Staff
+265875,Production,Fan,Marsiglia,1965-01-20,1989-09-03,9999-01-01,Engineer
+266206,Marketing,Zsolt,Anily,1965-02-01,1985-08-19,9999-01-01,Staff
+266249,Sales,Sumant,Nishimukai,1965-01-15,1991-03-28,9999-01-01,Senior Staff
+266310,Research,Zvonko,Serdy,1965-01-23,1987-06-24,9999-01-01,Staff
+266644,Finance,Anwar,Gubsky,1965-01-08,1993-08-09,9999-01-01,Staff
+266862,Research,Mart,Plumb,1965-01-10,1986-04-21,9999-01-01,Senior Staff
+266881,Marketing,Mokhtar,Sabnani,1965-01-11,1997-02-04,9999-01-01,Senior Staff
+267059,Customer Service,Moie,Tempesti,1965-01-09,1991-06-29,9999-01-01,Staff
+267227,Production,Susuma,Tagansky,1965-01-10,1995-01-22,9999-01-01,Senior Engineer
+267304,Sales,Jordanka,Axelband,1965-01-06,1994-06-27,9999-01-01,Senior Staff
+267667,Sales,Irena,Kaiserswerth,1965-01-05,1987-09-05,9999-01-01,Staff
+268043,Development,Narain,Mikschl,1965-01-28,1997-11-02,9999-01-01,Engineer
+268191,Production,LiMin,Teitelbaum,1965-01-07,1990-11-01,9999-01-01,Engineer
+269728,Marketing,Naftali,Kragelund,1965-01-12,1987-05-16,9999-01-01,Staff
+270084,Marketing,Ulises,Frolund,1965-01-11,1986-07-26,9999-01-01,Staff
+270716,Sales,Shunichi,Baer,1965-01-19,1998-02-04,9999-01-01,Staff
+270794,Marketing,Dannz,Zhang,1965-02-01,1991-06-26,9999-01-01,Senior Staff
+271106,Production,Taisook,Kampfer,1965-01-10,1997-11-30,9999-01-01,Engineer
+271219,Production,Odoardo,Tyugu,1965-01-16,1994-11-07,9999-01-01,Engineer
+272141,Development,Tsutomu,Neiman,1965-01-13,1996-07-31,9999-01-01,Senior Staff
+272285,Customer Service,Gully,Mitchem,1965-01-19,1986-01-22,9999-01-01,Senior Staff
+272316,Production,Surveyors,Muhling,1965-01-05,1999-07-19,9999-01-01,Engineer
+272452,Research,Mitsuyuki,Isard,1965-01-10,2002-02-27,9999-01-01,Engineer
+272599,Marketing,Holgard,Hegner,1965-01-16,1993-07-15,9999-01-01,Staff
+272860,Production,Minghong,Candan,1965-02-01,1994-02-10,9999-01-01,Assistant Engineer
+273159,Development,Divine,Hofmeyr,1965-01-26,1989-04-14,9999-01-01,Technique Leader
+273286,Development,Brigham,Asmuth,1965-01-26,1989-01-23,9999-01-01,Senior Engineer
+273396,Development,Wayne,Baba,1965-01-10,1998-03-07,9999-01-01,Engineer
+273806,Customer Service,Hongzhu,Beetstra,1965-01-01,1997-08-18,9999-01-01,Staff
+273858,Sales,Gunilla,Matzen,1965-01-13,1990-12-28,9999-01-01,Senior Staff
+274071,Human Resources,Mingsen,Weiland,1965-01-01,1995-10-12,9999-01-01,Staff
+274271,Sales,Prodip,Ritcey,1965-01-10,1986-09-10,9999-01-01,Senior Staff
+274369,Research,Ranga,Waymire,1965-01-29,1997-01-27,9999-01-01,Senior Staff
+274813,Sales,Yefim,Pettey,1965-01-10,1993-08-07,9999-01-01,Staff
+275158,Development,Satyanarayana,Brandsma,1965-01-07,1999-12-08,9999-01-01,Engineer
+275263,Development,Vojin,Laventhal,1965-01-21,1991-10-18,9999-01-01,Senior Engineer
+275444,Development,Limsoon,Leppanen,1965-01-16,1993-01-21,9999-01-01,Engineer
+275495,Sales,Shen,Yamaashi,1965-01-13,1995-02-19,9999-01-01,Staff
+275801,Sales,Ayakannu,Heinisuo,1965-01-22,1986-06-28,9999-01-01,Senior Staff
+275881,Production,Jiann,Munro,1965-01-08,1988-05-18,9999-01-01,Senior Engineer
+275994,Production,Uma,Prampolini,1965-01-29,1991-02-21,9999-01-01,Senior Engineer
+276027,Research,Holgard,Stavenow,1965-01-04,1986-02-28,9999-01-01,Senior Staff
+276184,Sales,Mari,Swick,1965-01-10,1991-04-08,9999-01-01,Senior Staff
+276186,Human Resources,Sajjad,Vecchi,1965-01-30,1993-06-02,9999-01-01,Staff
+276189,Human Resources,Isaac,Klerer,1965-01-10,1995-03-19,9999-01-01,Senior Staff
+276445,Production,Atilio,Randi,1965-01-27,1988-07-02,9999-01-01,Senior Engineer
+276472,Development,Hideyuki,Flanders,1965-01-27,1988-11-10,9999-01-01,Senior Engineer
+276563,Customer Service,Gift,Solares,1965-01-01,1995-08-01,9999-01-01,Senior Staff
+276868,Marketing,Alois,Sanella,1965-01-19,1998-03-13,9999-01-01,Staff
+277316,Sales,Vitali,Rothenberg,1965-01-03,1989-10-04,9999-01-01,Senior Staff
+277362,Customer Service,Uzi,Kugler,1965-01-09,1991-01-12,9999-01-01,Senior Staff
+277420,Production,Rayond,Schach,1965-01-16,1995-04-22,9999-01-01,Senior Engineer
+277777,Development,Herbert,Itzigehl,1965-01-27,1990-07-04,9999-01-01,Senior Engineer
+277829,Development,Michaela,Fandrianto,1965-01-22,1986-06-02,9999-01-01,Senior Engineer
+278239,Research,Boaz,Bottner,1965-01-19,1994-02-06,9999-01-01,Staff
+278386,Quality Management,Caolyn,Poujol,1965-01-15,1995-12-03,9999-01-01,Technique Leader
+278452,Human Resources,Sudhanshu,Toyoshima,1965-01-07,1987-08-29,9999-01-01,Senior Staff
+278536,Marketing,Munenori,Shobatake,1965-01-14,1992-01-10,9999-01-01,Staff
+278549,Sales,Jaana,Werthner,1965-01-02,1989-07-27,9999-01-01,Staff
+278953,Development,Jeanna,Ghandeharizadeh,1965-01-26,1990-08-11,9999-01-01,Senior Engineer
+279115,Development,Maren,DuCasse,1965-01-05,1997-11-29,9999-01-01,Engineer
+279280,Production,Niranjan,Debuse,1965-01-09,1992-09-21,9999-01-01,Engineer
+279791,Development,Chiranjit,Lyonns,1965-01-10,1986-12-24,9999-01-01,Engineer
+280070,Human Resources,Niteen,Ebeling,1965-01-24,1988-03-29,9999-01-01,Staff
+280291,Customer Service,Lenore,Badache,1965-01-26,1998-11-24,9999-01-01,Staff
+280420,Sales,Jahangir,Hofting,1965-01-31,1986-09-28,9999-01-01,Staff
+280525,Sales,Kish,Herbst,1965-01-13,1996-08-18,9999-01-01,Staff
+280648,Production,Heeju,Lorys,1965-01-04,1986-12-27,9999-01-01,Engineer
+281570,Development,Zijian,Covnot,1965-01-08,1994-09-13,9999-01-01,Assistant Engineer
+281692,Quality Management,Khosrow,Sommen,1965-01-06,1990-03-03,9999-01-01,Senior Engineer
+281848,Development,Parke,Staylopatis,1965-01-29,1993-07-31,9999-01-01,Senior Engineer
+281859,Production,Masanao,Papastamatiou,1965-01-17,1985-11-25,9999-01-01,Senior Engineer
+282191,Development,Alper,Shinomoto,1965-01-16,1997-10-20,9999-01-01,Engineer
+282333,Research,Nahla,Serdy,1965-01-25,1993-09-09,9999-01-01,Senior Staff
+282343,Sales,Xinglin,Haldar,1965-01-13,1988-07-20,9999-01-01,Staff
+282547,Development,Nahum,Codenie,1965-01-18,1999-06-14,9999-01-01,Engineer
+282585,Customer Service,Zijian,Lammel,1965-01-03,1996-07-01,9999-01-01,Staff
+282894,Development,Fay,Bellmore,1965-01-05,1989-05-03,9999-01-01,Senior Engineer
+284300,Marketing,Ishfaq,Mahmud,1965-01-22,1991-11-29,9999-01-01,Senior Staff
+284431,Sales,Pintsang,Fujisawa,1965-01-25,1996-04-16,9999-01-01,Staff
+284561,Quality Management,Duri,Beznosov,1965-01-03,1988-02-15,9999-01-01,Senior Engineer
+284687,Development,Oksana,Redmiles,1965-01-15,1985-06-22,9999-01-01,Engineer
+284691,Development,Theron,Ressouche,1965-01-04,1988-08-17,9999-01-01,Senior Engineer
+284711,Development,Martijn,Azevdeo,1965-01-21,1988-02-10,9999-01-01,Senior Engineer
+284717,Development,Gal,Ranta,1965-01-11,1992-11-07,9999-01-01,Senior Engineer
+284856,Quality Management,Moto,Kobara,1965-01-05,1991-12-12,9999-01-01,Senior Engineer
+284954,Quality Management,Anneke,Hammerschmidt,1965-01-16,1996-01-30,9999-01-01,Engineer
+285164,Sales,Xiaocheng,Kumaresan,1965-01-02,1994-10-03,9999-01-01,Staff
+285396,Development,Lena,Kohling,1965-01-27,1986-10-04,9999-01-01,Senior Engineer
+285905,Research,Kellyn,Bage,1965-01-09,1994-11-04,9999-01-01,Senior Staff
+285906,Development,Arnould,Buescher,1965-01-02,1998-03-26,9999-01-01,Engineer
+286026,Sales,Utpal,Zaumen,1965-01-21,1991-02-25,9999-01-01,Senior Staff
+286029,Customer Service,Jaques,Nanard,1965-01-28,1996-07-16,9999-01-01,Staff
+286370,Human Resources,Toshimitsu,Seuren,1965-01-06,1995-01-19,9999-01-01,Senior Staff
+286452,Development,Behnaam,Bierbaum,1965-01-26,1999-01-31,9999-01-01,Engineer
+286573,Production,Nahum,Nishimukai,1965-01-27,1994-07-29,9999-01-01,Engineer
+286779,Production,Sigeru,Versino,1965-01-24,1998-08-31,9999-01-01,Engineer
+286986,Development,Woody,Trelles,1965-01-01,1996-05-23,9999-01-01,Senior Engineer
+287323,Sales,Steve,Dengi,1965-02-01,1999-09-15,9999-01-01,Staff
+287327,Human Resources,Youjian,Felder,1965-01-13,1993-07-15,9999-01-01,Senior Staff
+287334,Production,Elliott,Speer,1965-01-05,1998-08-08,9999-01-01,Engineer
+287482,Quality Management,Shigeaki,Gihr,1965-01-01,1994-03-18,9999-01-01,Engineer
+287583,Production,Jovan,Hockney,1965-01-18,1990-06-21,9999-01-01,Engineer
+287609,Development,Sailaja,Negoita,1965-01-06,1988-01-20,9999-01-01,Senior Engineer
+287713,Finance,Aamod,Ranka,1965-01-23,1992-12-07,9999-01-01,Senior Staff
+287808,Development,Vidar,Ozeki,1965-01-09,1996-06-17,9999-01-01,Technique Leader
+287983,Marketing,Randi,Munos,1965-01-23,1990-09-07,9999-01-01,Senior Staff
+287984,Development,Troy,Kobuchi,1965-01-09,1991-02-12,9999-01-01,Senior Engineer
+288028,Development,Kauko,Narwekar,1965-01-22,1985-12-16,9999-01-01,Senior Engineer
+288142,Sales,Shay,Heystek,1965-01-25,1989-04-01,9999-01-01,Staff
+288166,Human Resources,Masoud,Asmuth,1965-01-11,1994-09-05,9999-01-01,Staff
+288560,Marketing,Yifei,Birjandi,1965-01-16,1994-02-07,9999-01-01,Staff
+288563,Production,Cristinel,Gerlach,1965-01-02,1996-01-09,9999-01-01,Senior Engineer
+288606,Sales,Susumu,Swiss,1965-01-21,1991-11-15,9999-01-01,Staff
+288665,Development,Horward,Khasidashvili,1965-01-31,1998-11-19,9999-01-01,Senior Engineer
+288893,Development,Bedrich,Rosenbaum,1965-01-30,1991-01-27,9999-01-01,Senior Engineer
+289454,Development,Bowen,Narwekar,1965-01-20,1985-03-08,9999-01-01,Senior Engineer
+289687,Research,Fai,Maccarone,1965-01-31,1985-10-30,9999-01-01,Staff
+289807,Customer Service,Soenke,Lemarechal,1965-01-04,1994-09-04,9999-01-01,Staff
+289909,Sales,Hilari,Vecchio,1965-01-09,1993-04-24,9999-01-01,Staff
+290009,Human Resources,Zijian,Rindone,1965-01-22,1989-07-09,9999-01-01,Staff
+290075,Human Resources,Boalin,Byoun,1965-01-15,1990-10-01,9999-01-01,Staff
+290284,Development,Kwangjo,Menhardt,1965-01-08,1996-01-11,9999-01-01,Engineer
+290441,Sales,Gregory,Collavizza,1965-01-25,1987-09-09,9999-01-01,Staff
+290467,Research,Shaowen,Poulakidas,1965-01-29,1987-04-15,9999-01-01,Staff
+290478,Quality Management,Tsvetan,Sherertz,1965-01-03,1989-08-07,9999-01-01,Assistant Engineer
+290563,Production,Shigehiro,Oxenboll,1965-01-09,1986-02-26,9999-01-01,Senior Engineer
+290769,Development,Lalit,Blokdijk,1965-01-26,1999-02-01,9999-01-01,Senior Engineer
+291352,Research,Danai,Trelles,1965-01-07,1997-08-26,9999-01-01,Technique Leader
+291612,Development,Siamak,Gomatam,1965-01-30,1998-07-08,9999-01-01,Engineer
+291669,Development,Faiza,Bach,1965-01-04,1999-09-13,9999-01-01,Engineer
+292110,Development,Menkae,Showalter,1965-01-23,1996-08-09,9999-01-01,Senior Engineer
+292146,Development,Khatoun,Pulkowski,1965-01-09,2002-01-09,9999-01-01,Engineer
+292210,Development,Masaru,Huhdanpaa,1965-01-17,1996-11-23,9999-01-01,Senior Engineer
+292404,Research,Hongzue,Zultner,1965-01-28,1990-02-22,9999-01-01,Senior Staff
+292504,Quality Management,Georgi,Bednarek,1965-01-27,1994-03-02,9999-01-01,Senior Engineer
+292515,Development,Bernd,Thummel,1965-01-04,1989-08-03,9999-01-01,Engineer
+292828,Production,Ziya,Tokunaga,1965-01-10,1986-01-08,9999-01-01,Senior Engineer
+293080,Human Resources,Hideyuki,Slaats,1965-01-12,1987-05-30,9999-01-01,Senior Staff
+293154,Marketing,Syozo,Maliniak,1965-01-21,1993-06-06,9999-01-01,Senior Staff
+293280,Development,Moti,Steenbeek,1965-01-24,1987-01-22,9999-01-01,Engineer
+293329,Development,Fumiya,Griswold,1965-01-15,1986-06-12,9999-01-01,Engineer
+293746,Development,Sanjay,Litecky,1965-01-25,1995-08-27,9999-01-01,Senior Engineer
+293752,Sales,Jungsoon,Bail,1965-01-04,1986-02-18,9999-01-01,Senior Staff
+294144,Sales,Takanari,Ermel,1965-01-09,1992-01-11,9999-01-01,Staff
+294241,Finance,Marl,Fiebach,1965-01-12,1994-07-26,9999-01-01,Senior Staff
+294446,Finance,Claudi,Ruemmler,1965-01-27,1999-08-13,9999-01-01,Staff
+294461,Development,Siddarth,Rosiles,1965-01-14,1985-11-18,9999-01-01,Senior Engineer
+294527,Marketing,Ashish,Candan,1965-01-04,1992-02-02,9999-01-01,Senior Staff
+294652,Research,Hironobu,Brodie,1965-01-27,1998-12-21,9999-01-01,Engineer
+294791,Development,Vesna,Lammel,1965-01-28,1999-10-08,9999-01-01,Assistant Engineer
+294857,Development,Caolyn,Ozeri,1965-01-15,1986-07-29,9999-01-01,Engineer
+295030,Customer Service,Fun,Keirsey,1965-01-01,1985-07-09,9999-01-01,Senior Staff
+295236,Development,Kauko,Fujisawa,1965-01-24,1987-09-13,9999-01-01,Engineer
+295254,Human Resources,Xuejun,Pfau,1965-01-15,1985-07-24,9999-01-01,Staff
+295255,Production,Jacopo,Bellone,1965-01-04,1988-03-13,9999-01-01,Technique Leader
+295262,Production,Moon,Pews,1965-01-22,1994-08-06,9999-01-01,Assistant Engineer
+295268,Human Resources,Eben,Calkin,1965-01-28,1996-12-19,9999-01-01,Senior Staff
+295278,Development,Val,Barvinok,1965-01-04,1990-01-02,9999-01-01,Engineer
+295411,Sales,Chiranjit,Serot,1965-01-18,1997-04-04,9999-01-01,Staff
+295857,Human Resources,Kankanahalli,Ciolek,1965-01-17,1989-12-26,9999-01-01,Staff
+296062,Research,Shaz,Driscoll,1965-01-29,1998-10-03,9999-01-01,Staff
+296303,Development,Mariangiola,Heyers,1965-01-28,1992-08-04,9999-01-01,Technique Leader
+296428,Sales,Charmane,Simmen,1965-01-03,1989-03-07,9999-01-01,Staff
+296664,Production,Dipayan,Geffroy,1965-01-31,1987-09-17,9999-01-01,Senior Engineer
+296687,Research,Palash,Spieker,1965-01-02,1991-05-11,9999-01-01,Staff
+296718,Production,Kamakshi,Bahl,1965-01-30,1987-12-22,9999-01-01,Senior Engineer
+297232,Sales,Lokesh,Saoudi,1965-01-16,1999-05-25,9999-01-01,Senior Staff
+297431,Marketing,Cathie,Ratnakar,1965-01-12,1996-06-23,9999-01-01,Senior Staff
+297474,Research,Irena,Terkki,1965-01-13,1998-03-11,9999-01-01,Staff
+297905,Development,Marc,Bahl,1965-01-12,1997-06-18,9999-01-01,Assistant Engineer
+297954,Production,Sailaja,Fujisaki,1965-01-13,1995-07-24,9999-01-01,Assistant Engineer
+298339,Development,King,Benzmuller,1965-01-11,1986-09-04,9999-01-01,Senior Engineer
+298577,Finance,Florina,Litecky,1965-01-11,1985-12-02,9999-01-01,Staff
+298953,Finance,Zita,Syang,1965-02-01,1998-12-29,9999-01-01,Staff
+299346,Human Resources,Fumitake,Sichman,1965-01-09,1991-02-21,9999-01-01,Senior Staff
+299580,Quality Management,Luisa,Itzfeldt,1965-01-21,1997-01-23,9999-01-01,Engineer
+299718,Research,Denny,Shobatake,1965-01-15,1997-06-22,9999-01-01,Senior Staff
+299737,Sales,Patricio,Itzfeldt,1965-02-01,1985-05-21,9999-01-01,Staff
+400046,Development,Hilari,Christ,1965-01-12,1996-10-07,9999-01-01,Senior Staff
+400358,Development,Angus,Jullig,1965-01-31,1989-04-13,9999-01-01,Engineer
+400683,Sales,Kamakshi,Manders,1965-01-28,1995-08-05,9999-01-01,Staff
+400780,Development,Poornachandra,Asser,1965-01-09,1993-11-07,9999-01-01,Engineer
+400796,Development,Bodo,Halevi,1965-01-10,1996-05-30,9999-01-01,Engineer
+401154,Human Resources,Danae,Kragelund,1965-01-27,1987-05-20,9999-01-01,Staff
+401278,Production,Oguz,Schurmann,1965-01-16,1986-11-11,9999-01-01,Assistant Engineer
+401333,Production,Martins,Shokrollahi,1965-01-30,1986-11-04,9999-01-01,Engineer
+401420,Customer Service,Florian,Uhrig,1965-01-06,1987-01-31,9999-01-01,Senior Staff
+401574,Production,Yannik,Falco,1965-01-13,1988-01-15,9999-01-01,Technique Leader
+402025,Quality Management,Shigehito,Duclos,1965-01-20,1987-09-20,9999-01-01,Senior Engineer
+402102,Development,Kersti,Granlund,1965-01-21,1995-03-19,9999-01-01,Engineer
+402664,Production,Subhada,Janetzko,1965-01-04,1987-01-25,9999-01-01,Senior Engineer
+402718,Development,Jeanna,Rettelbach,1965-01-17,1990-02-14,9999-01-01,Senior Engineer
+402827,Human Resources,Weidon,Pollacia,1965-01-28,2002-03-24,9999-01-01,Senior Staff
+403010,Development,Toshimitsu,Sluis,1965-01-16,1985-02-18,9999-01-01,Senior Engineer
+403621,Marketing,Deborah,Kaminger,1965-01-07,1988-06-04,9999-01-01,Staff
+403644,Human Resources,Krisda,Hainaut,1965-01-19,1995-07-08,9999-01-01,Staff
+403954,Development,Jeanna,Bratten,1965-01-10,1990-07-26,9999-01-01,Senior Engineer
+404018,Development,Valery,Babb,1965-01-11,1998-10-19,9999-01-01,Senior Engineer
+404236,Development,Zengping,Kakkar,1965-01-12,1988-07-22,9999-01-01,Senior Engineer
+404462,Development,Anestis,Setlzner,1965-01-09,1985-07-13,9999-01-01,Senior Engineer
+404573,Human Resources,Eberhardt,Spelt,1965-01-31,1997-07-05,9999-01-01,Staff
+404755,Marketing,Manu,Junet,1965-01-13,1991-04-20,9999-01-01,Senior Staff
+404788,Development,Basem,Beausoleil,1965-01-16,1998-03-16,9999-01-01,Engineer
+405015,Sales,Morris,Fargier,1965-01-02,1988-06-29,9999-01-01,Senior Staff
+405063,Production,Yechezkel,Yurov,1965-01-26,2001-11-16,9999-01-01,Senior Engineer
+406125,Production,Georgi,Portugali,1965-01-25,1987-09-27,9999-01-01,Technique Leader
+406239,Development,Marek,Tomescu,1965-01-09,1995-05-15,9999-01-01,Senior Engineer
+406564,Development,Parviz,Picco,1965-01-25,1995-04-16,9999-01-01,Engineer
+406714,Research,Malu,Ossenbruggen,1965-02-01,1986-11-21,9999-01-01,Staff
+406847,Sales,Alexius,Crouzet,1965-01-24,1999-10-05,9999-01-01,Staff
+407522,Finance,Tommaso,Raczkowsky,1965-01-25,1996-08-29,9999-01-01,Staff
+407837,Quality Management,Fei,Erez,1965-02-01,1988-04-02,9999-01-01,Senior Engineer
+408019,Production,Shridhar,Chleq,1965-01-01,1986-03-22,9999-01-01,Assistant Engineer
+408114,Development,Geoffrey,Ladret,1965-01-05,1994-01-03,9999-01-01,Engineer
+408163,Development,Irene,Sethi,1965-01-21,2000-08-12,9999-01-01,Senior Engineer
+408417,Sales,Tsz,Daescu,1965-01-19,1994-09-28,9999-01-01,Staff
+408437,Customer Service,Uno,Solares,1965-01-29,1994-09-22,9999-01-01,Staff
+408447,Sales,Mayuri,Werthner,1965-01-13,2001-02-20,9999-01-01,Staff
+408654,Customer Service,Yongqiao,Cochrane,1965-01-09,1986-10-27,9999-01-01,Staff
+408953,Development,Jolita,Claffy,1965-01-26,1993-12-24,9999-01-01,Senior Engineer
+409391,Production,Willard,Verspoor,1965-01-06,1999-02-28,9999-01-01,Engineer
+409798,Production,Dekang,Tsunoo,1965-01-15,1995-01-19,9999-01-01,Technique Leader
+409805,Quality Management,Frazer,Candan,1965-01-15,1999-03-05,9999-01-01,Senior Engineer
+409898,Development,Divier,Ishibashi,1965-02-01,1989-09-22,9999-01-01,Senior Engineer
+410028,Human Resources,Xiadong,McClurg,1965-01-11,1985-09-17,9999-01-01,Senior Staff
+410372,Development,Duri,Mitina,1965-01-08,1990-03-04,9999-01-01,Senior Engineer
+410433,Production,Kazuhisa,Riesenhuber,1965-01-19,1992-10-06,9999-01-01,Senior Engineer
+410616,Development,Gudjon,Kalorkoti,1965-01-18,1994-04-14,9999-01-01,Senior Engineer
+410804,Production,Ronnie,Denos,1965-01-17,1992-06-08,9999-01-01,Senior Engineer
+410881,Quality Management,Koichi,Grabner,1965-01-06,2000-04-05,9999-01-01,Senior Engineer
+411070,Development,Otmar,Brandsma,1965-01-29,1987-05-28,9999-01-01,Engineer
+411082,Production,Martine,Cangellaris,1965-01-08,1992-04-28,9999-01-01,Engineer
+411143,Marketing,Goncalo,Barbanera,1965-01-08,1996-09-01,9999-01-01,Senior Staff
+412404,Production,Mitsuyuki,Jeansoulin,1965-01-15,1999-10-28,9999-01-01,Senior Engineer
+412757,Development,Leen,Peak,1965-01-03,1999-11-20,9999-01-01,Engineer
+413098,Research,Hsiangchu,Taubenfeld,1965-01-26,1993-04-17,9999-01-01,Senior Staff
+413205,Sales,Mototsugu,Prampolini,1965-01-09,1988-06-12,9999-01-01,Senior Staff
+413666,Finance,Remco,Duclos,1965-01-05,1988-04-18,9999-01-01,Senior Staff
+413729,Development,Harjit,Ernst,1965-01-02,1992-04-26,9999-01-01,Technique Leader
+413831,Customer Service,Mohamadou,Grabner,1965-01-09,1991-11-25,9999-01-01,Senior Staff
+413832,Human Resources,Marco,Jahnichen,1965-01-24,1995-03-28,9999-01-01,Senior Staff
+414027,Customer Service,Tadanori,Msuda,1965-01-31,1993-02-20,9999-01-01,Senior Engineer
+414091,Development,Wuxu,Kuhnemann,1965-01-17,1997-08-19,9999-01-01,Engineer
+414543,Production,Bernd,Anick,1965-01-03,1988-11-19,9999-01-01,Senior Engineer
+414551,Development,Elliott,Copas,1965-01-22,1994-09-13,9999-01-01,Senior Engineer
+414662,Development,Ipke,Schneeberger,1965-01-21,1985-09-20,9999-01-01,Engineer
+414714,Research,Chinho,Delgrande,1965-01-06,1996-11-07,9999-01-01,Senior Staff
+414814,Development,Dayanand,Wielonsky,1965-01-28,1999-02-28,9999-01-01,Staff
+414897,Sales,Juyoung,Willoner,1965-01-17,1989-11-03,9999-01-01,Staff
+415187,Production,Juyoung,Peltason,1965-01-03,1998-09-01,9999-01-01,Assistant Engineer
+415338,Production,Shigeo,Emmart,1965-01-22,1995-12-24,9999-01-01,Assistant Engineer
+415363,Marketing,Conal,Shackell,1965-01-19,1995-02-23,9999-01-01,Staff
+415563,Development,Mrinalini,Bierbaum,1965-01-21,1986-03-12,9999-01-01,Engineer
+416074,Development,Alain,Lieberherr,1965-01-08,1987-05-11,9999-01-01,Senior Engineer
+416383,Development,Nectarios,Itschner,1965-01-29,1990-03-02,9999-01-01,Engineer
+416420,Sales,Adamantios,Heemskerk,1965-01-22,1986-08-08,9999-01-01,Senior Staff
+416492,Development,Kannan,Meriste,1965-01-15,1992-08-12,9999-01-01,Senior Engineer
+416660,Development,Nathalie,Luke,1965-01-28,1987-09-16,9999-01-01,Engineer
+416720,Production,Tokuyasu,Xiaoshan,1965-01-14,1991-09-19,9999-01-01,Senior Engineer
+416877,Marketing,Gio,Orsini,1965-01-02,1988-12-07,9999-01-01,Senior Staff
+416892,Production,Shooichi,Vandervoorde,1965-01-03,1996-08-16,9999-01-01,Engineer
+417435,Sales,Bouchung,Zaumen,1965-01-03,1999-01-29,9999-01-01,Senior Staff
+418239,Production,Josyula,Motley,1965-01-03,1996-03-26,9999-01-01,Senior Engineer
+418247,Marketing,Oscar,Oppitz,1965-01-08,2002-07-27,9999-01-01,Staff
+418298,Production,Arvin,Pusterhofer,1965-01-08,1995-03-02,9999-01-01,Senior Engineer
+418309,Production,Danel,Petereit,1965-01-24,1985-02-21,9999-01-01,Engineer
+418380,Production,Kazuhiko,Gornas,1965-01-02,1993-05-20,9999-01-01,Senior Engineer
+418566,Production,Kazuhide,Snedden,1965-01-27,1996-06-14,9999-01-01,Senior Engineer
+418606,Production,Michaela,Otillio,1965-01-11,1994-01-05,9999-01-01,Engineer
+418717,Sales,Arunachalam,Magliocco,1965-01-20,1987-12-23,9999-01-01,Senior Staff
+418860,Marketing,Ymte,Dalton,1965-02-01,1992-11-22,9999-01-01,Staff
+419099,Sales,Heon,Broomell,1965-01-15,1998-05-06,9999-01-01,Staff
+419953,Marketing,Ung,Orlowski,1965-01-29,1991-07-22,9999-01-01,Staff
+420086,Development,Susuma,Kitsuregawa,1965-01-27,1985-05-28,9999-01-01,Engineer
+420476,Customer Service,Mariangiola,Bolsens,1965-01-28,1985-06-15,9999-01-01,Senior Staff
+420557,Sales,Mabhin,Eastman,1965-01-06,1989-08-02,9999-01-01,Staff
+420694,Research,Frazer,Barbanera,1965-01-19,1986-11-04,9999-01-01,Senior Staff
+420732,Marketing,Willard,Morrin,1965-01-06,1996-05-27,9999-01-01,Staff
+420759,Sales,Raimond,Solovay,1965-01-04,1997-10-03,9999-01-01,Staff
+420765,Sales,Shawna,Krider,1965-01-17,1990-03-09,9999-01-01,Senior Staff
+420877,Finance,Khosrow,Erez,1965-01-29,1990-02-11,9999-01-01,Staff
+421022,Sales,Shigeaki,Butner,1965-01-26,1996-07-13,9999-01-01,Senior Staff
+421033,Sales,Garnik,Randt,1965-01-14,1989-12-23,9999-01-01,Staff
+421074,Sales,Zhaofang,Falster,1965-01-07,1994-06-29,9999-01-01,Senior Staff
+421312,Development,Mariangiola,Bashian,1965-01-13,1999-09-18,9999-01-01,Engineer
+421384,Human Resources,Renny,Bednarek,1965-01-02,1987-06-01,9999-01-01,Staff
+421755,Production,Shichao,Thiria,1965-01-03,1989-01-11,9999-01-01,Senior Engineer
+422146,Research,Kenton,Miara,1965-01-08,2002-03-13,9999-01-01,Engineer
+422783,Production,Jagoda,Uhrig,1965-01-18,1995-09-01,9999-01-01,Engineer
+423038,Sales,Takushi,Strehl,1965-01-20,1988-10-04,9999-01-01,Senior Staff
+423204,Sales,Uma,Stranks,1965-01-08,1991-09-13,9999-01-01,Staff
+423208,Development,Joydip,Krone,1965-01-19,1995-02-08,9999-01-01,Engineer
+423214,Finance,Tsutomu,Tetzlaff,1965-01-31,1987-09-24,9999-01-01,Senior Staff
+423327,Sales,Constantijn,Lichtman,1965-01-27,1994-06-26,9999-01-01,Senior Staff
+423350,Sales,Heping,Monarch,1965-01-04,1988-04-15,9999-01-01,Staff
+423633,Development,Mariusz,Tokunaga,1965-01-30,1985-02-11,9999-01-01,Senior Engineer
+423993,Development,Seshu,Kolvik,1965-01-01,1988-12-09,9999-01-01,Technique Leader
+424569,Development,Danco,Luff,1965-01-14,1997-10-30,9999-01-01,Engineer
+424584,Development,Kagan,Dredge,1965-02-01,1994-02-26,9999-01-01,Engineer
+424685,Finance,Changho,Veevers,1965-01-10,1997-03-03,9999-01-01,Senior Staff
+424797,Sales,Theron,Itschner,1965-01-19,1985-05-16,9999-01-01,Staff
+424805,Sales,Jacqueline,Zallocco,1965-01-24,1987-12-17,9999-01-01,Staff
+424930,Human Resources,Xuejun,Reeker,1965-01-19,1988-11-18,9999-01-01,Staff
+424984,Development,Vasilis,Waleschkowski,1965-01-11,1996-05-26,9999-01-01,Engineer
+425437,Development,Moni,Staudhammer,1965-01-03,1999-03-23,9999-01-01,Engineer
+425535,Marketing,Alagu,Vieri,1965-01-18,1986-08-23,9999-01-01,Staff
+425540,Finance,Paddy,Zumaque,1965-01-03,1995-11-12,9999-01-01,Senior Staff
+425757,Production,Yongdong,Jiang,1965-01-18,1995-01-31,9999-01-01,Senior Staff
+425780,Sales,Paris,Range,1965-01-15,1989-10-25,9999-01-01,Senior Staff
+425830,Development,Guther,Conia,1965-01-30,1999-02-13,9999-01-01,Engineer
+425875,Sales,Jahangir,Kroft,1965-01-19,1990-06-11,9999-01-01,Staff
+426153,Sales,Shahaf,Luce,1965-01-16,1999-04-06,9999-01-01,Senior Staff
+426168,Finance,Kaijung,Mateescu,1965-01-10,1987-11-18,9999-01-01,Staff
+426228,Development,Supot,Badache,1965-01-17,1996-08-17,9999-01-01,Engineer
+426235,Human Resources,Danco,Rajala,1965-01-31,1991-03-29,9999-01-01,Staff
+426644,Production,Zejun,Broomell,1965-01-13,1995-01-19,9999-01-01,Engineer
+426706,Production,Karsten,Kawashima,1965-01-07,1994-03-15,9999-01-01,Senior Engineer
+426795,Customer Service,Huican,Lunn,1965-01-07,1986-07-23,9999-01-01,Senior Staff
+426818,Customer Service,Gaurav,Fendler,1965-01-21,1992-02-15,9999-01-01,Staff
+426819,Production,Sandeepan,Kulisch,1965-01-13,1997-05-16,9999-01-01,Engineer
+426824,Customer Service,Gopalakrishnan,Mawatari,1965-01-25,1997-12-07,9999-01-01,Staff
+426958,Production,Weijing,Viele,1965-01-19,1985-10-03,9999-01-01,Senior Engineer
+427313,Research,Utpal,Kemmerer,1965-01-31,1986-12-04,9999-01-01,Staff
+427320,Development,Mamdouh,Ramamoorthy,1965-01-13,2000-01-13,9999-01-01,Senior Engineer
+427332,Customer Service,Feiyu,Hemaspaandra,1965-01-20,1995-06-04,9999-01-01,Staff
+427571,Research,Torsten,Ranta,1965-01-20,1995-07-03,9999-01-01,Senior Engineer
+427776,Finance,Jaques,Navazio,1965-01-25,1989-04-04,9999-01-01,Senior Staff
+427805,Finance,Haldun,Compeau,1965-01-21,1997-10-15,9999-01-01,Senior Staff
+427823,Customer Service,Jaques,Gecsei,1965-01-18,1999-07-13,9999-01-01,Staff
+427852,Production,Adil,Kieras,1965-01-02,1992-07-20,9999-01-01,Senior Engineer
+428082,Human Resources,Ronghao,Alpin,1965-01-09,1991-09-11,9999-01-01,Staff
+428160,Marketing,Jamaludin,Kalorkoti,1965-01-12,1998-09-06,9999-01-01,Senior Staff
+428195,Human Resources,Hatsukazu,Rosca,1965-01-11,1993-08-02,9999-01-01,Staff
+428219,Sales,Ghassan,Androutsos,1965-01-21,1987-12-26,9999-01-01,Staff
+428917,Development,Theron,Billawala,1965-01-23,1989-02-17,9999-01-01,Senior Engineer
+429087,Quality Management,Hugh,Senzako,1965-01-27,1992-10-15,9999-01-01,Technique Leader
+429231,Sales,Kazuyasu,Schmiedel,1965-01-09,1985-09-07,9999-01-01,Staff
+429238,Sales,Mona,Luck,1965-01-29,1989-05-11,9999-01-01,Senior Staff
+429249,Research,Alassane,Wolniewicz,1965-01-28,1993-11-09,9999-01-01,Engineer
+429316,Finance,Seshu,Hiraishi,1965-01-08,1994-08-10,9999-01-01,Staff
+429381,Sales,Limsoon,Roohalamini,1965-01-06,1986-11-26,9999-01-01,Senior Staff
+429481,Development,Subhada,Emmerich,1965-01-09,1996-03-06,9999-01-01,Engineer
+429520,Quality Management,Yongqiao,Francisci,1965-01-06,1999-12-01,9999-01-01,Engineer
+429532,Customer Service,Bartek,Vendrig,1965-01-25,1992-06-06,9999-01-01,Staff
+429569,Development,Fumiya,Chappelet,1965-01-03,1992-09-03,9999-01-01,Engineer
+429703,Human Resources,Ung,Honglei,1965-01-06,1986-09-02,9999-01-01,Senior Staff
+429899,Marketing,Ranan,Marsiglia,1965-01-30,1999-08-13,9999-01-01,Staff
+429954,Sales,Renny,Gladwell,1965-01-26,1999-02-27,9999-01-01,Staff
+430054,Development,Erzsebet,Setiz,1965-01-22,1993-06-10,9999-01-01,Senior Engineer
+430558,Quality Management,Xiong,Roisin,1965-01-07,1988-03-01,9999-01-01,Senior Engineer
+430593,Customer Service,Janalee,Lanzelotte,1965-01-19,1997-12-01,9999-01-01,Senior Staff
+430631,Development,Kersti,Marsiglia,1965-01-17,1994-02-19,9999-01-01,Engineer
+430891,Production,Khalil,Gien,1965-01-06,1991-08-06,9999-01-01,Senior Engineer
+431576,Human Resources,Masamitsu,Back,1965-01-06,1993-04-12,9999-01-01,Staff
+431657,Development,Visit,Thiran,1965-01-31,1986-11-14,9999-01-01,Senior Engineer
+431882,Development,Hideo,Varman,1965-01-21,1997-06-19,9999-01-01,Engineer
+431887,Development,Poorav,Ranst,1965-01-05,1996-06-01,9999-01-01,Senior Engineer
+432031,Sales,Adamantios,Matzat,1965-01-11,1987-03-01,9999-01-01,Staff
+432034,Marketing,Arfst,Uehara,1965-01-24,1994-07-10,9999-01-01,Senior Staff
+432121,Customer Service,Alair,Straney,1965-01-06,1986-11-15,9999-01-01,Staff
+432257,Production,Kwangjo,Hiltgen,1965-01-20,1998-12-22,9999-01-01,Engineer
+432261,Development,Arve,Bergere,1965-01-30,1987-07-28,9999-01-01,Senior Engineer
+432399,Customer Service,Nitsan,Nollmann,1965-01-19,1993-09-29,9999-01-01,Senior Engineer
+432523,Development,Takahiro,Maquelin,1965-01-21,1997-07-21,9999-01-01,Engineer
+432665,Development,Flemming,Driscoll,1965-01-02,1994-05-28,9999-01-01,Senior Engineer
+432787,Development,Toshiko,Ibel,1965-01-16,1996-11-23,9999-01-01,Senior Engineer
+432956,Marketing,Qunsheng,Birrer,1965-01-25,1986-05-13,9999-01-01,Senior Staff
+433059,Sales,Bojan,Montresor,1965-01-02,1995-02-04,9999-01-01,Staff
+433157,Sales,Tomofumi,Serna,1965-01-16,1999-10-23,9999-01-01,Staff
+433260,Quality Management,Make,Olivero,1965-02-01,1991-06-01,9999-01-01,Assistant Engineer
+433438,Research,Keiichiro,Miyakawa,1965-01-06,1993-09-12,9999-01-01,Staff
+434845,Sales,Takushi,Skogmar,1965-01-11,1985-06-07,9999-01-01,Staff
+434936,Development,Sahrah,Rosis,1965-01-15,1994-06-24,9999-01-01,Senior Engineer
+435042,Sales,Brigham,Borstler,1965-01-10,1995-10-09,9999-01-01,Staff
+435060,Sales,Moie,Lieblein,1965-01-16,1996-07-12,9999-01-01,Staff
+435181,Marketing,Kazuhide,Fiutem,1965-01-16,1992-05-10,9999-01-01,Senior Staff
+435289,Marketing,Feixiong,Schurmann,1965-01-04,1987-02-15,9999-01-01,Senior Staff
+435305,Sales,Berthier,Pramanik,1965-01-21,1993-01-23,9999-01-01,Senior Staff
+435370,Sales,Conal,Basart,1965-01-16,1991-05-17,9999-01-01,Senior Staff
+435588,Human Resources,Genta,Pepe,1965-01-29,1994-04-12,9999-01-01,Senior Staff
+435602,Sales,Dietrich,Kranzdorf,1965-01-29,1992-10-04,9999-01-01,Staff
+435774,Sales,Olivera,Bharadwaj,1965-01-09,1992-04-01,9999-01-01,Staff
+435791,Quality Management,Hercules,Speer,1965-01-07,1994-03-07,9999-01-01,Senior Engineer
+436558,Development,Subir,Greibach,1965-01-08,1992-05-24,9999-01-01,Senior Engineer
+436797,Finance,Ohad,Henders,1965-01-24,1990-11-03,9999-01-01,Staff
+436827,Human Resources,Wojceich,Limongiello,1965-01-30,1988-03-10,9999-01-01,Senior Staff
+436915,Research,Feixiong,Haraldson,1965-01-13,1998-10-11,9999-01-01,Staff
+437276,Finance,Dines,DeMori,1965-01-17,1987-12-07,9999-01-01,Staff
+437369,Sales,Kazuhide,Biran,1965-02-01,1995-01-25,9999-01-01,Senior Staff
+437395,Marketing,Sumant,Thambidurai,1965-01-21,1996-08-24,9999-01-01,Senior Staff
+437724,Human Resources,Erez,Luft,1965-01-17,1994-12-14,9999-01-01,Staff
+437870,Development,Kerhong,Lorho,1965-01-07,2001-03-17,9999-01-01,Staff
+438038,Marketing,Lena,Giaccio,1965-01-01,2001-10-03,9999-01-01,Senior Staff
+438264,Customer Service,Rasikan,Barreiro,1965-01-19,1991-09-27,9999-01-01,Staff
+438557,Development,Lidong,Swist,1965-01-30,1999-09-16,9999-01-01,Engineer
+439377,Development,Mari,Plessier,1965-01-28,1997-07-04,9999-01-01,Senior Engineer
+439905,Customer Service,Kousuke,Levasseur,1965-01-03,1990-03-16,9999-01-01,Senior Staff
+439924,Finance,Gunilla,Kisuki,1965-01-30,1994-08-14,9999-01-01,Senior Staff
+440325,Sales,Douadi,Sullins,1965-01-10,1999-09-25,9999-01-01,Senior Staff
+440435,Development,Sandeepan,Rosti,1965-01-03,1991-11-26,9999-01-01,Senior Engineer
+440450,Human Resources,Tzvetan,Scharstein,1965-01-16,1994-06-16,9999-01-01,Senior Staff
+440642,Sales,Snehasis,Kalsbeek,1965-01-14,1988-01-06,9999-01-01,Senior Staff
+440870,Customer Service,Filipp,Hasham,1965-01-01,1996-10-14,9999-01-01,Senior Staff
+440937,Research,Fabrizio,Usery,1965-01-18,1992-10-13,9999-01-01,Staff
+441197,Sales,Miquel,Legleitner,1965-01-18,1985-06-28,9999-01-01,Senior Staff
+441536,Production,Chinho,Collette,1965-01-10,1995-10-09,9999-01-01,Senior Engineer
+441954,Production,Leszek,Marchegay,1965-01-03,1999-06-13,9999-01-01,Engineer
+441965,Research,Claudi,Heijenga,1965-01-12,1988-08-30,9999-01-01,Senior Staff
+442002,Sales,Ravishankar,Baig,1965-01-03,1992-03-17,9999-01-01,Staff
+442096,Production,Martijn,DiGiano,1965-01-15,1990-06-15,9999-01-01,Senior Engineer
+442312,Production,Zengping,Cusworth,1965-01-05,1991-06-07,9999-01-01,Senior Engineer
+442490,Production,Navid,Luke,1965-01-08,1994-10-17,9999-01-01,Engineer
+442653,Development,Mona,Hebden,1965-01-04,1995-10-20,9999-01-01,Engineer
+442700,Research,Siddarth,Masada,1965-01-06,1997-08-11,9999-01-01,Staff
+442898,Production,Aksel,Gire,1965-01-07,1999-06-27,9999-01-01,Engineer
+443108,Human Resources,Christfried,Atrawala,1965-01-14,1998-11-29,9999-01-01,Senior Staff
+443485,Research,Marke,Klerer,1965-01-23,1990-04-14,9999-01-01,Senior Staff
+443841,Sales,Shaw,Kading,1965-01-08,1992-07-16,9999-01-01,Staff
+443873,Sales,Vatsa,Ramsay,1965-01-20,2000-06-16,9999-01-01,Staff
+444070,Customer Service,Heping,Skrikant,1965-01-15,1990-11-27,9999-01-01,Staff
+444099,Sales,Kousuke,Worfolk,1965-01-28,1988-03-22,9999-01-01,Staff
+444208,Sales,Irena,Cesareni,1965-01-27,1985-10-30,9999-01-01,Senior Staff
+444465,Production,Prasadram,Bultermann,1965-01-13,1998-10-25,9999-01-01,Senior Engineer
+444487,Development,Udi,Rullman,1965-01-03,1994-04-09,9999-01-01,Senior Engineer
+444643,Research,Berna,Schonegge,1965-01-18,1998-06-28,9999-01-01,Staff
+445067,Quality Management,Eldridge,Kawashima,1965-01-28,1990-02-27,9999-01-01,Senior Engineer
+445152,Research,Heping,Peac,1965-01-09,1985-03-20,9999-01-01,Staff
+445226,Production,Oscar,Baumann,1965-01-01,1987-01-22,9999-01-01,Senior Engineer
+445570,Development,Van,Nations,1965-01-25,1986-08-11,9999-01-01,Technique Leader
+445723,Production,Gaurav,Roison,1965-01-31,1991-07-12,9999-01-01,Senior Staff
+445941,Production,Masako,Dechter,1965-01-11,1985-09-25,9999-01-01,Technique Leader
+445950,Quality Management,Ebru,Valtorta,1965-01-23,1992-12-09,9999-01-01,Senior Engineer
+446121,Sales,Fay,Cochrane,1965-01-11,1999-12-13,9999-01-01,Staff
+446306,Production,Hercules,Kabayashi,1965-01-22,1991-06-10,9999-01-01,Senior Engineer
+446424,Development,DAIDA,Nooteboom,1965-01-16,1985-11-24,9999-01-01,Senior Engineer
+446897,Production,Takahiro,Dalton,1965-01-22,1992-09-30,9999-01-01,Technique Leader
+446959,Development,Aram,Passino,1965-01-29,1995-01-28,9999-01-01,Senior Engineer
+447018,Production,Dannz,Miara,1965-01-17,1992-12-04,9999-01-01,Engineer
+447135,Human Resources,Gennady,Rouquie,1965-01-31,1989-08-24,9999-01-01,Senior Staff
+447232,Customer Service,Aleksander,Schaaf,1965-01-22,2000-01-10,9999-01-01,Staff
+447376,Research,Kirk,Zongker,1965-01-07,1999-12-10,9999-01-01,Staff
+447544,Sales,Stabislas,Kakkad,1965-01-22,1989-02-19,9999-01-01,Senior Staff
+447613,Development,Paris,Restivo,1965-01-15,1986-11-21,9999-01-01,Senior Engineer
+447877,Quality Management,Make,Heuser,1965-01-13,1988-07-02,9999-01-01,Senior Engineer
+447931,Sales,Martijn,Jeong,1965-01-11,1990-12-14,9999-01-01,Staff
+447966,Production,Kamakshi,Hebert,1965-01-05,1997-01-17,9999-01-01,Senior Engineer
+447982,Production,Shiv,Baezner,1965-01-25,1990-12-17,9999-01-01,Senior Engineer
+447999,Development,Shiv,Vilarrasa,1965-01-05,1990-08-01,9999-01-01,Engineer
+448769,Production,Mong,Dichev,1965-01-18,1997-10-11,9999-01-01,Technique Leader
+448900,Sales,Mart,Talmor,1965-01-16,1999-05-11,9999-01-01,Staff
+448918,Production,Chiradeep,Arlazarov,1965-01-23,1989-10-06,9999-01-01,Senior Engineer
+448994,Finance,Haldun,Syang,1965-01-12,1997-02-11,9999-01-01,Staff
+449189,Sales,Jahangir,Bernatsky,1965-01-30,1995-09-30,9999-01-01,Senior Staff
+449815,Research,Fumitaka,Quittner,1965-01-27,1988-04-20,9999-01-01,Staff
+449984,Development,Hinrich,Perin,1965-02-01,1985-11-20,9999-01-01,Senior Engineer
+450184,Development,Selwyn,Henseler,1965-01-11,1993-03-09,9999-01-01,Senior Engineer
+450255,Development,Udo,Waymire,1965-01-31,1986-06-14,9999-01-01,Technique Leader
+450309,Quality Management,Gill,Orlowska,1965-01-08,1986-12-25,9999-01-01,Technique Leader
+450475,Finance,Saeed,Bahl,1965-01-21,1991-01-29,9999-01-01,Senior Staff
+450817,Quality Management,DAIDA,Frolund,1965-01-10,1987-07-17,9999-01-01,Senior Engineer
+450888,Sales,Sedat,Rande,1965-01-03,1995-03-25,9999-01-01,Staff
+450934,Production,Chanjung,Raoux,1965-01-23,1992-05-25,9999-01-01,Engineer
+450936,Finance,Yuriy,Ponthieu,1965-01-18,1991-12-11,9999-01-01,Staff
+451253,Sales,Jaihie,Ozeri,1965-01-15,1991-06-21,9999-01-01,Senior Staff
+451272,Development,Jacopo,Krohm,1965-01-02,1991-04-24,9999-01-01,Senior Engineer
+451275,Research,Bedrich,Isard,1965-01-25,1986-06-07,9999-01-01,Senior Staff
+451333,Human Resources,Radhika,Bonifati,1965-01-15,1995-03-11,9999-01-01,Senior Staff
+452137,Customer Service,Subir,Miake,1965-01-15,1999-01-09,9999-01-01,Engineer
+452206,Sales,Arra,Esposito,1965-01-22,1994-11-03,9999-01-01,Staff
+452325,Development,Taiji,Berstel,1965-01-14,1996-12-02,9999-01-01,Senior Engineer
+452347,Sales,Shigeichiro,Brattka,1965-01-07,1996-07-13,9999-01-01,Staff
+452365,Development,Fei,Gadepally,1965-01-05,1988-11-13,9999-01-01,Assistant Engineer
+452956,Customer Service,Gou,Thombley,1965-01-17,1990-11-07,9999-01-01,Senior Engineer
+452957,Sales,Alair,Nanard,1965-01-03,1996-02-10,9999-01-01,Staff
+452982,Marketing,Lobel,Aloia,1965-01-29,1994-12-29,9999-01-01,Senior Staff
+453070,Human Resources,Aran,Rosenbaum,1965-01-06,1991-04-25,9999-01-01,Staff
+453154,Customer Service,Gao,Lally,1965-01-03,1996-03-01,9999-01-01,Staff
+453644,Marketing,Berni,Takkinen,1965-01-07,1992-06-08,9999-01-01,Staff
+453688,Quality Management,Chinya,Leslie,1965-01-24,1995-10-28,9999-01-01,Engineer
+453723,Production,Arne,Kohling,1965-01-15,1985-12-13,9999-01-01,Senior Engineer
+453760,Customer Service,Ewing,Rajala,1965-01-13,1996-06-21,9999-01-01,Staff
+453790,Development,Fai,Keirsey,1965-01-11,1994-10-12,9999-01-01,Senior Engineer
+453913,Marketing,Stein,Perng,1965-01-23,1993-04-29,9999-01-01,Senior Staff
+454338,Quality Management,Mohammed,Georg,1965-01-24,1998-08-03,9999-01-01,Engineer
+454378,Production,Gina,Ossenbruggen,1965-01-06,1998-01-03,9999-01-01,Technique Leader
+454736,Development,Nechama,Ermel,1965-01-24,1995-06-05,9999-01-01,Engineer
+454791,Production,Xiaoqiu,Pietracaprina,1965-01-22,1994-07-09,9999-01-01,Senior Engineer
+454825,Production,Kamakshi,Schusler,1965-01-02,1995-05-25,9999-01-01,Senior Engineer
+454994,Production,Mohan,Picht,1965-01-01,1991-02-24,9999-01-01,Senior Engineer
+455175,Marketing,Soenke,Zaumen,1965-01-14,1992-02-22,9999-01-01,Staff
+455284,Quality Management,Luisa,Baig,1965-01-09,1996-07-12,9999-01-01,Senior Engineer
+455726,Sales,Qiwen,Kriebel,1965-01-08,1987-12-13,9999-01-01,Staff
+455814,Production,Giao,DuCasse,1965-01-28,1991-07-19,9999-01-01,Senior Engineer
+455914,Development,Peer,Angelopoulos,1965-01-01,1989-07-23,9999-01-01,Senior Engineer
+456767,Sales,Tetsurou,Schreiter,1965-01-24,1987-07-17,9999-01-01,Staff
+456982,Development,Shounak,Dratva,1965-01-07,1989-01-05,9999-01-01,Senior Engineer
+457070,Human Resources,Gay,Plavsic,1965-01-25,1987-08-06,9999-01-01,Staff
+457146,Research,Jinpo,Heyers,1965-01-20,1999-01-07,9999-01-01,Staff
+457305,Sales,Sorina,Lakshmanan,1965-01-15,1994-09-03,9999-01-01,Staff
+457337,Quality Management,Xumin,Beidas,1965-01-31,1995-04-27,9999-01-01,Technique Leader
+457411,Development,Xudong,Peck,1965-01-13,1988-04-18,9999-01-01,Senior Engineer
+457489,Production,Berna,Ranst,1965-01-24,1985-05-14,9999-01-01,Senior Engineer
+457611,Development,Indrajit,Krogh,1965-01-09,1998-09-18,9999-01-01,Engineer
+457776,Production,Florian,Siepmann,1965-01-15,1987-12-21,9999-01-01,Engineer
+457813,Production,Foong,Gargeya,1965-01-28,1992-01-24,9999-01-01,Senior Engineer
+457832,Development,Jackson,Zielinski,1965-02-01,1997-09-12,9999-01-01,Senior Engineer
+457938,Customer Service,Arch,Picco,1965-01-14,1997-10-22,9999-01-01,Senior Staff
+458111,Production,Florian,Tramer,1965-01-23,1999-11-07,9999-01-01,Engineer
+458134,Human Resources,Thanasis,Standera,1965-01-11,1985-03-20,9999-01-01,Staff
+458191,Research,George,Atchley,1965-01-28,1997-07-02,9999-01-01,Staff
+458383,Development,Mabhin,Foote,1965-01-06,1999-04-23,9999-01-01,Engineer
+458726,Customer Service,Shahaf,Kitai,1965-01-13,1986-12-26,9999-01-01,Staff
+458790,Production,Ramya,Azadmanesh,1965-01-17,1988-11-19,9999-01-01,Senior Engineer
+459172,Development,Val,Rissanen,1965-01-19,1993-11-20,9999-01-01,Engineer
+459356,Development,Pramod,Wendorf,1965-01-21,1998-12-25,9999-01-01,Engineer
+459429,Sales,Mohit,Verhaegen,1965-01-14,1992-05-27,9999-01-01,Staff
+459685,Quality Management,Hirochika,Goldhammer,1965-02-01,1998-03-12,9999-01-01,Engineer
+460131,Sales,Adly,Hambrick,1965-01-16,1997-07-25,9999-01-01,Staff
+460691,Human Resources,Munehiko,Gihr,1965-01-16,1989-12-06,9999-01-01,Senior Staff
+460707,Development,Yoshinari,Lanteri,1965-01-07,1996-12-25,9999-01-01,Senior Engineer
+460920,Sales,Remzi,Mitzlaff,1965-01-22,1986-04-06,9999-01-01,Senior Staff
+461120,Research,Shietung,Gelosh,1965-01-18,2001-04-01,9999-01-01,Engineer
+461270,Sales,Mrinalini,Mawatari,1965-01-10,1996-01-03,9999-01-01,Staff
+461801,Customer Service,Sumali,Cooman,1965-01-03,1993-04-18,9999-01-01,Senior Staff
+462493,Quality Management,Paloma,Gerlach,1965-01-12,1988-07-26,9999-01-01,Senior Engineer
+462795,Research,Somnath,Cummings,1965-01-05,1994-07-10,9999-01-01,Staff
+463023,Marketing,Itzchak,Penn,1965-01-06,1999-01-21,9999-01-01,Staff
+463099,Finance,Jinxi,Schmiedel,1965-01-15,1990-09-21,9999-01-01,Staff
+463212,Quality Management,Ramya,Rossi,1965-01-09,2001-09-02,9999-01-01,Senior Engineer
+463472,Customer Service,Jaber,Sethi,1965-01-11,2000-06-11,9999-01-01,Technique Leader
+463495,Human Resources,Alenka,Barriga,1965-01-28,1988-05-06,9999-01-01,Staff
+464284,Sales,Huiqun,Henders,1965-01-20,1993-05-19,9999-01-01,Senior Staff
+464303,Customer Service,Abdelghani,Nyrup,1965-01-22,1986-08-02,9999-01-01,Staff
+465062,Production,Stafford,Gist,1965-01-29,1988-05-07,9999-01-01,Engineer
+465076,Production,Tokuyasu,Ghelli,1965-01-19,1985-05-05,9999-01-01,Engineer
+465085,Customer Service,Vidar,Gunderson,1965-01-18,1996-03-18,9999-01-01,Senior Staff
+465409,Marketing,Shahid,Varman,1965-01-30,1985-08-27,9999-01-01,Staff
+465501,Human Resources,Mrinalini,Gire,1965-01-05,1992-11-09,9999-01-01,Senior Staff
+465711,Development,Lakshmi,Frijda,1965-01-06,1990-04-21,9999-01-01,Engineer
+465853,Human Resources,Kwan,Kampfer,1965-01-01,1998-10-16,9999-01-01,Staff
+465874,Production,Herb,Picht,1965-01-12,1985-05-31,9999-01-01,Assistant Engineer
+466064,Sales,Temple,Danlos,1965-01-31,1994-06-13,9999-01-01,Senior Staff
+466367,Customer Service,Hiroyasu,Strandh,1965-01-05,1989-06-05,9999-01-01,Staff
+466509,Development,Bezalel,Verhoeff,1965-01-26,1988-03-22,9999-01-01,Senior Engineer
+466603,Marketing,Yechezkel,Nourani,1965-01-23,1991-08-01,9999-01-01,Staff
+466745,Human Resources,Boalin,Birsak,1965-01-26,1995-10-16,9999-01-01,Senior Staff
+467176,Human Resources,Przemyslawa,Borovoy,1965-01-05,1993-06-18,9999-01-01,Staff
+467269,Development,Nahum,Lambe,1965-01-18,1989-08-31,9999-01-01,Technique Leader
+467392,Production,Mariusz,Rikino,1965-01-07,1995-04-13,9999-01-01,Senior Engineer
+467441,Production,Margareta,Bondorf,1965-01-13,1988-11-07,9999-01-01,Senior Engineer
+467591,Marketing,Kiyotoshi,Hennebert,1965-01-17,2001-03-06,9999-01-01,Staff
+467886,Marketing,Sivanarayana,Chandrasekhar,1965-01-02,1996-01-24,9999-01-01,Senior Staff
+467918,Customer Service,Tsuneo,Skrikant,1965-01-03,1997-10-21,9999-01-01,Staff
+468360,Development,Huei,Saoudi,1965-01-12,1994-08-10,9999-01-01,Technique Leader
+468417,Production,Kamakshi,Huhdanpaa,1965-01-25,1993-08-26,9999-01-01,Senior Engineer
+468659,Development,Ranga,Lemarechal,1965-01-18,1989-11-05,9999-01-01,Engineer
+468773,Quality Management,Baziley,Brookner,1965-01-27,1993-09-22,9999-01-01,Senior Engineer
+469104,Quality Management,Nadjib,Comellas,1965-01-21,1999-01-22,9999-01-01,Engineer
+469253,Development,Baruch,Basawa,1965-01-17,1993-09-17,9999-01-01,Senior Engineer
+469269,Production,Weiyi,Codenie,1965-01-23,1989-05-27,9999-01-01,Senior Engineer
+469366,Quality Management,Aiman,Wilfing,1965-01-12,1990-12-30,9999-01-01,Engineer
+469399,Production,Hongzhu,Ruemmler,1965-01-25,2000-06-06,9999-01-01,Engineer
+469527,Research,Halsur,Ibel,1965-01-24,1998-03-05,9999-01-01,Staff
+469529,Quality Management,Neven,Rikino,1965-01-07,1988-10-21,9999-01-01,Engineer
+469735,Development,Arif,Stranks,1965-01-30,1992-11-16,9999-01-01,Senior Engineer
+469867,Research,Hein,Jonsson,1965-01-23,1985-02-12,9999-01-01,Senior Staff
+470456,Sales,Reuven,Oehlmann,1965-01-13,1986-03-29,9999-01-01,Staff
+470472,Development,Zhiguo,Staudhammer,1965-02-01,1985-12-03,9999-01-01,Engineer
+471397,Research,Nigel,Zirintsis,1965-02-01,1999-07-23,9999-01-01,Engineer
+471532,Development,Feiyu,Decleir,1965-01-17,1998-09-13,9999-01-01,Technique Leader
+471552,Finance,Basem,Lortz,1965-01-22,1997-10-25,9999-01-01,Staff
+471911,Quality Management,Arun,Zaccaria,1965-01-14,1990-05-31,9999-01-01,Engineer
+471939,Production,Kazuhiko,Marshall,1965-01-27,2001-06-04,9999-01-01,Staff
+472052,Development,Godehard,Chinal,1965-01-26,1995-12-09,9999-01-01,Assistant Engineer
+472143,Sales,Yahiko,Sommen,1965-01-25,1996-08-14,9999-01-01,Senior Staff
+472238,Production,Jungsoon,Gubsky,1965-01-31,1990-10-09,9999-01-01,Senior Engineer
+472790,Development,Zhenbing,Ibel,1965-01-23,1985-10-29,9999-01-01,Senior Engineer
+472950,Production,Weidon,Fordan,1965-01-29,1986-03-27,9999-01-01,Senior Engineer
+473268,Sales,Hugo,Sgarro,1965-01-01,1992-04-24,9999-01-01,Senior Staff
+473299,Sales,Khaled,Penn,1965-01-12,1992-05-19,9999-01-01,Staff
+473490,Research,Pantung,Reeker,1965-01-06,1992-05-11,9999-01-01,Staff
+473940,Production,Avishai,Majewski,1965-01-16,1998-01-10,9999-01-01,Engineer
+474331,Finance,Sugwoo,Eugenio,1965-01-29,1994-03-02,9999-01-01,Senior Staff
+474763,Development,Mayuko,Clouatre,1965-01-07,1997-09-04,9999-01-01,Engineer
+474796,Customer Service,Zongyan,Shackel,1965-01-10,1987-08-17,9999-01-01,Technique Leader
+475087,Production,Genevieve,Snedden,1965-01-31,1988-10-21,9999-01-01,Senior Engineer
+475258,Production,Fumiyo,Feinberg,1965-01-10,2000-02-12,9999-01-01,Senior Staff
+475538,Human Resources,Christophe,Leaver,1965-01-15,1998-10-31,9999-01-01,Staff
+475938,Development,Shigeaki,Lanteri,1965-01-14,1989-02-17,9999-01-01,Engineer
+475965,Development,Rimon,Pietracaprina,1965-01-02,1985-07-10,9999-01-01,Senior Engineer
+476055,Research,Girolamo,Schlumberger,1965-01-03,1993-03-07,9999-01-01,Staff
+476122,Production,Khun,Spieker,1965-01-04,1995-05-07,9999-01-01,Engineer
+476327,Production,Reinhold,Binkley,1965-01-31,1995-05-29,9999-01-01,Senior Engineer
+476361,Research,Doohun,Preusig,1965-01-09,1993-04-28,9999-01-01,Technique Leader
+477350,Sales,Terresa,Vigier,1965-01-01,1998-07-08,9999-01-01,Staff
+477578,Development,Marit,Paludetto,1965-01-23,1990-09-30,9999-01-01,Engineer
+477969,Development,Bluma,Mundy,1965-01-18,1991-10-18,9999-01-01,Engineer
+478007,Production,Fumino,Narahara,1965-01-06,1991-09-21,9999-01-01,Senior Engineer
+478170,Development,Doowon,Schoegge,1965-01-22,1995-04-13,9999-01-01,Assistant Engineer
+478218,Research,Djenana,Erol,1965-01-02,1999-12-03,9999-01-01,Engineer
+478439,Development,Yuichiro,Bale,1965-01-15,1997-11-04,9999-01-01,Technique Leader
+478768,Production,Arun,Katzenelson,1965-01-03,1991-10-28,9999-01-01,Senior Engineer
+478799,Marketing,Shaw,Borovoy,1965-01-18,1991-05-11,9999-01-01,Senior Staff
+478833,Production,Pradeep,Valiente,1965-01-30,1992-09-19,9999-01-01,Engineer
+478858,Customer Service,Hidekazu,Perna,1965-01-20,1999-11-08,9999-01-01,Staff
+479024,Production,Ewing,Kalorkoti,1965-01-03,1996-12-21,9999-01-01,Engineer
+479407,Production,Randi,Tomescu,1965-01-18,1986-11-25,9999-01-01,Senior Engineer
+479601,Research,Kayoko,Bahi,1965-01-19,1997-02-19,9999-01-01,Staff
+479695,Marketing,Masamitsu,Murrill,1965-01-06,1999-06-23,9999-01-01,Senior Staff
+480035,Development,Sukumar,Georg,1965-01-26,1990-08-26,9999-01-01,Senior Staff
+480066,Quality Management,Suebskul,Menhardt,1965-01-31,1994-07-26,9999-01-01,Engineer
+480178,Research,Uinam,Rahier,1965-01-03,1991-02-10,9999-01-01,Senior Staff
+480268,Development,Gaurav,Cheshire,1965-01-18,1989-03-30,9999-01-01,Technique Leader
+480407,Development,Deniz,Bennis,1965-01-01,1989-06-24,9999-01-01,Senior Engineer
+481050,Human Resources,Weiru,Burnard,1965-01-16,1990-10-15,9999-01-01,Senior Staff
+481213,Sales,Shigehiro,Haldar,1965-01-08,1991-12-14,9999-01-01,Senior Staff
+481397,Production,Luisa,Chelton,1965-01-31,1998-08-13,9999-01-01,Assistant Engineer
+481764,Production,Teiji,Marrakchi,1965-01-27,1986-08-26,9999-01-01,Senior Engineer
+481790,Research,Haldun,Erie,1965-01-22,1999-01-01,9999-01-01,Senior Engineer
+482335,Development,Kwangyoen,Peck,1965-01-26,1994-01-16,9999-01-01,Engineer
+482354,Research,Jayson,Zockler,1965-01-23,1999-11-06,9999-01-01,Staff
+482755,Marketing,Jouni,Conia,1965-01-03,1994-10-31,9999-01-01,Staff
+482885,Production,Shaunak,Brizzi,1965-01-29,1988-09-02,9999-01-01,Engineer
+482905,Finance,Aral,Hebden,1965-01-16,1991-09-10,9999-01-01,Senior Staff
+482944,Sales,Duke,Journel,1965-01-26,1991-10-26,9999-01-01,Staff
+483401,Sales,Rosita,Pokrovskii,1965-01-10,1996-08-03,9999-01-01,Senior Staff
+483675,Production,Hausi,Kamber,1965-01-22,1988-02-16,9999-01-01,Engineer
+483825,Production,Marek,Mitchem,1965-01-22,1992-11-20,9999-01-01,Senior Engineer
+483838,Production,Sham,Kavanagh,1965-01-03,1997-12-18,9999-01-01,Assistant Engineer
+483978,Sales,Dung,Tanemo,1965-01-24,1990-01-28,9999-01-01,Senior Staff
+484126,Human Resources,Manton,Lueh,1965-01-05,1989-04-07,9999-01-01,Senior Staff
+484142,Human Resources,Perry,Cooman,1965-01-05,1987-04-23,9999-01-01,Staff
+484498,Production,Herbert,Hammerschmidt,1965-01-26,1996-08-22,9999-01-01,Engineer
+484756,Development,Phule,Ruemmler,1965-01-16,1990-08-09,9999-01-01,Senior Engineer
+485253,Customer Service,Gladys,Parhami,1965-01-14,1996-07-20,9999-01-01,Senior Staff
+485489,Development,Keiichiro,Armand,1965-01-01,1986-12-14,9999-01-01,Assistant Engineer
+485577,Development,Rafael,Menhoudj,1965-01-30,1997-04-27,9999-01-01,Senior Engineer
+485579,Development,Munehiro,Iwayama,1965-01-18,1986-12-16,9999-01-01,Engineer
+485799,Research,Yoshimitsu,Litvinov,1965-01-27,1997-11-22,9999-01-01,Senior Staff
+485817,Production,Mahmut,Bolotov,1965-01-29,1997-02-21,9999-01-01,Engineer
+486068,Human Resources,Yefim,Bernardeschi,1965-01-11,1996-06-26,9999-01-01,Staff
+486808,Quality Management,Geoffrey,Siochi,1965-01-05,1998-12-27,9999-01-01,Senior Engineer
+486918,Sales,Yagil,Remmers,1965-01-18,1994-11-01,9999-01-01,Senior Staff
+486956,Production,Matt,Ruemmler,1965-01-01,1993-10-14,9999-01-01,Engineer
+486958,Development,Tonny,Kropf,1965-01-06,1986-07-30,9999-01-01,Senior Engineer
+487008,Sales,Zhigen,Raney,1965-01-22,1993-05-26,9999-01-01,Senior Staff
+487505,Research,Uno,Jayawardene,1965-01-20,1987-11-02,9999-01-01,Staff
+487988,Human Resources,Ekawit,Schaft,1965-01-05,1990-05-20,9999-01-01,Senior Staff
+488095,Customer Service,Francoise,Hegner,1965-01-24,1997-12-23,9999-01-01,Senior Staff
+488142,Sales,Denis,Narlikar,1965-01-05,1991-07-01,9999-01-01,Staff
+488482,Development,Kensyu,Tsunoo,1965-01-30,1999-12-05,9999-01-01,Engineer
+488540,Finance,Breannda,Maquelin,1965-01-22,1996-04-12,9999-01-01,Senior Staff
+488619,Production,Georgy,Bennis,1965-01-25,1998-04-11,9999-01-01,Engineer
+488693,Development,Jiong,Zultner,1965-01-27,1993-03-10,9999-01-01,Senior Engineer
+488707,Sales,Mihalis,Remmers,1965-01-16,1990-03-01,9999-01-01,Staff
+488752,Marketing,Nimmagadda,Baja,1965-01-23,1994-02-09,9999-01-01,Senior Staff
+488788,Customer Service,Wuxu,Garigliano,1965-01-12,1990-09-21,9999-01-01,Staff
+488984,Sales,Kendra,Junet,1965-01-18,1992-11-12,9999-01-01,Staff
+489755,Human Resources,Matk,Chorvat,1965-01-14,1999-12-04,9999-01-01,Staff
+489756,Finance,Kersti,Miculan,1965-01-01,1992-06-09,9999-01-01,Staff
+489928,Development,Satoru,Janetzko,1965-01-28,1997-07-26,9999-01-01,Assistant Engineer
+490551,Development,Lalit,Lindqvist,1965-01-01,1998-11-07,9999-01-01,Engineer
+490557,Production,Luise,Vigier,1965-01-27,1994-07-01,9999-01-01,Senior Engineer
+490568,Development,Zita,Reistad,1965-01-01,1998-07-23,9999-01-01,Senior Engineer
+490720,Quality Management,Younwoo,Samarati,1965-01-19,2002-05-18,9999-01-01,Senior Engineer
+491079,Development,Kwangsub,Keirsey,1965-01-06,1992-02-04,9999-01-01,Senior Engineer
+491162,Development,Panayotis,Hempstead,1965-01-14,1994-08-29,9999-01-01,Senior Engineer
+491478,Sales,Gill,Varman,1965-01-16,1988-06-18,9999-01-01,Senior Staff
+491596,Production,Charmane,Pargas,1965-01-21,1992-08-03,9999-01-01,Engineer
+491632,Customer Service,Gadiel,Perly,1965-01-01,1986-10-20,9999-01-01,Staff
+492000,Human Resources,Valeska,Cools,1965-01-10,1993-12-16,9999-01-01,Staff
+492052,Customer Service,Udo,Ratnakar,1965-01-11,1999-11-30,9999-01-01,Staff
+492217,Development,Heekeun,Verhaegen,1965-01-16,1991-09-28,9999-01-01,Senior Engineer
+492639,Development,Sanjoy,Porenta,1965-01-30,1997-07-10,9999-01-01,Engineer
+492677,Production,Goetz,McAffer,1965-01-26,1988-02-05,9999-01-01,Senior Engineer
+493031,Customer Service,Hironoby,Jakobus,1965-01-23,1991-07-30,9999-01-01,Staff
+493048,Sales,Muzhong,Berztiss,1965-01-31,1995-01-23,9999-01-01,Staff
+493096,Development,Sachem,Msuda,1965-01-31,1995-04-07,9999-01-01,Engineer
+493744,Production,Leni,Kropatsch,1965-01-14,1997-07-17,9999-01-01,Senior Engineer
+494019,Marketing,Morrie,Iisaku,1965-01-16,1991-05-06,9999-01-01,Senior Staff
+494088,Production,Phule,Dahlbom,1965-01-10,1989-02-06,9999-01-01,Senior Engineer
+494493,Marketing,Masasuke,Koprowski,1965-01-10,1996-11-20,9999-01-01,Staff
+494995,Sales,Yongmao,Pouyioutas,1965-01-04,1989-08-24,9999-01-01,Senior Staff
+496100,Customer Service,Pranjal,Reinhard,1965-01-07,1995-05-08,9999-01-01,Staff
+496970,Production,Giordano,Maquelin,1965-01-03,1999-12-31,9999-01-01,Senior Engineer
+496978,Marketing,Danco,Debuse,1965-01-30,1993-09-10,9999-01-01,Staff
+497007,Customer Service,Oldrich,Adachi,1965-01-23,1998-08-09,9999-01-01,Engineer
+497174,Development,Sanjiv,Bressoud,1965-01-02,1993-04-27,9999-01-01,Engineer
+497340,Marketing,Fayez,Keohane,1965-01-06,1990-09-19,9999-01-01,Senior Staff
+497391,Quality Management,Paris,Lieblein,1965-01-30,1999-05-19,9999-01-01,Engineer
+497835,Production,Shuho,Laurillard,1965-01-29,1999-10-06,9999-01-01,Technique Leader
+498185,Development,Caolyn,Marciano,1965-01-19,1999-06-06,9999-01-01,Senior Engineer
+498337,Sales,Naraig,Docker,1965-01-30,1997-05-17,9999-01-01,Staff
+498456,Customer Service,Geraldo,Gerteisen,1965-01-17,1987-06-05,9999-01-01,Staff
+498635,Sales,Florian,Pezzoli,1965-01-09,1988-07-22,9999-01-01,Senior Staff
+498838,Research,Sanjay,Ciolek,1965-01-16,1989-12-13,9999-01-01,Staff
+498845,Development,Arumugam,Pelc,1965-01-09,1999-11-13,9999-01-01,Senior Engineer
+498955,Production,Nechama,Kandlur,1965-01-13,1995-01-16,9999-01-01,Senior Engineer
+499194,Customer Service,Padma,Delgrange,1965-01-29,1999-08-27,9999-01-01,Senior Staff
+499260,Production,Danae,Honglei,1965-01-11,1998-09-14,9999-01-01,Engineer
+499495,Development,Baoqiu,Kakkar,1965-01-14,1999-08-30,9999-01-01,Engineer
