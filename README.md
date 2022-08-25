@@ -16,6 +16,7 @@ To determine the number of potential retirees, we created a table called retirem
 ## Summary
 
 -	How many roles will need to be filled as the "Silver Tsunami" begins to make an impact?
+
 Based on our analysis there are 72,458 employees that meet the criteria for retirement. There are an additional 1,549 employees that are eligible for the mentorship program which could impact their normal day-to-day roles.
 
 -	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
