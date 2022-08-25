@@ -32,13 +32,13 @@ We created 2 additional tables and ran queries based off those to further illust
 
 By comparing this with the unique_titles table above, we can see just how short Pewlett Hackard is in trying to fill the potential vacancies. Those eligible for the mentorship make up a total of 2.14% of the total vacancies that may need to be filled. They are broken down by title as follows:
 
-o	Eligible Staff employees at 424 only make up 5.5% that need to be filled
-o	Eligible Senior Engineers at 395 only make up 1.5% that need to be filled
-o	Eligible Engineers at 309 only make up 3.3% that need to be filled
-o	Eligible Senior Staff at 300 only make up 1.2% that need to be filled
-o	Eligible Technique Leaders only make up 2.1% that need to be filled
-o	Eligible Assistant Engineers only make up 4% that need to be filled
-o	There were none eligible for the Manager role
+  - Eligible Staff employees at 424 only make up 5.5% that need to be filled
+  - Eligible Senior Engineers at 395 only make up 1.5% that need to be filled
+  - Eligible Engineers at 309 only make up 3.3% that need to be filled
+  - Eligible Senior Staff at 300 only make up 1.2% that need to be filled
+  - Eligible Technique Leaders only make up 2.1% that need to be filled
+  - Eligible Assistant Engineers only make up 4% that need to be filled
+  - There were none eligible for the Manager role
 
 Below breaks down the employees eligible for the mentorship by department:
 
